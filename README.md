@@ -64,8 +64,9 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Para la investigación, hemos seleccionado como proyecto la página web de "Buga Ramen Granada", un restaurante de comida japonesa, que ofrece una experiencia gastronómica completa ambientado en los modernos locales de comida tradicional en japón. No tenemos conocimientos avanzados sobre como se manejan este tipo de establecimientos, sin embargo somos usuarios corrientes de estos, así que lo evaluaremos como usuarios consolidados.
 
+El objetivo de la investigación es evaluar usabilidad de la página y mejorar la expereriencia del usuario con esta, tratando de mejorar el sistema de reservas, la presentación de la carta... Incrementando el numero de reservas, lo que implicaría un aumento de los beneficios.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
