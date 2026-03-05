@@ -91,7 +91,10 @@ Las herramientas que utilizaremos para realizar el user reseach serán las sigui
 
  * Encuestas que recojan el feedback de los usuarios sobre la página 
 
- * Card Sorting: consiste en entregarles a los usuarios una serie de conceptos relacionados con la página y comprobar como los ordenan en promedio validando como los usuarios esperan encontrarse la información vs como está ordenada en la página.  
+ * Card Sorting: consiste en entregarles a los usuarios una serie de conceptos relacionados con la página y comprobar como los ordenan en promedio validando como los usuarios esperan encontrarse la información vs como está ordenada en la página.
+
+En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son personas jóvenes o conocedoras de anime y público que quiera probar una experienca gastronómica diferente
+
  
 
  
