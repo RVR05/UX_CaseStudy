@@ -64,9 +64,28 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
-Para la investigación, hemos seleccionado como proyecto la página web de "Buga Ramen Granada", un restaurante de comida japonesa, que ofrece una experiencia gastronómica completa ambientado en los modernos locales de comida tradicional en japón. No tenemos conocimientos avanzados sobre como se manejan este tipo de establecimientos, sin embargo somos usuarios corrientes de estos, así que lo evaluaremos como usuarios consolidados.
+Para la investigación, hemos seleccionado como proyecto la página web de "Buga Ramen Granada", un restaurante de comida japonesa, que ofrece una experiencia gastronómica completa ambientado en los modernos locales de comida japonesa con tematica anime (sobre todo Shonen: One Piece, Naruto...). No tenemos conocimientos avanzados sobre como se manejan este tipo de establecimientos, sin embargo somos usuarios corrientes de estos, así que lo evaluaremos como usuarios consolidados.
 
-El objetivo de la investigación es evaluar usabilidad de la página y mejorar la expereriencia del usuario con esta, tratando de mejorar el sistema de reservas, la presentación de la carta... Incrementando el numero de reservas, lo que implicaría un aumento de los beneficios.
+El propósito de la investigación es evaluar usabilidad de la página y analizar las carencias y puntos fuertes de esta.
+
+Los objetivos principales son: 
+
+ * Evaluar el atractivo visual de la página.
+ * Analizar la navegabilidad general de la página
+   * Facilidad para acceder a la carta
+   * Contacto
+   * Incidencias
+   * Informacion sobre el establecimiento (ubicaciones, historia...)
+ * Constatar adaptaciones de la carta para personas con dietas veganas, celiacas, vegetarianas, o con algún tipo de alergia.
+ * Medir el numero de personas que recurren nuevamente a la página tras realizar una reserva.
+ * Calificar el sistema de reserva
+   * Tiempo promedio
+   * Comprensibilidad
+ 
+
+ 
+
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
