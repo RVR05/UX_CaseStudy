@@ -81,6 +81,17 @@ Los objetivos principales son:
  * Calificar el sistema de reserva
    * Tiempo promedio
    * Comprensibilidad
+
+Las herramientas que utilizaremos para realizar el user reseach serán las siguientes: 
+
+Realización de pruebas de usuario: Usuarios de diferentes edades, ambitos accederan a la pagina y trataran de hacer reservas, acceder a los distintos submenus. Se recogeran las siguientes medidas.
+
+ * Flujo de clics del usuario promedio
+ * Tiempos promedios para encontrar y acceder a las distintas utilidades (ya sea reservar, visualizar la carta, comprobar la ubicación...)
+
+Encuestas que recojan el feedback de los usuarios sobre la página 
+
+Card Sorting: consiste en entregarles a los usuarios una serie de conceptos relacionados con la página y comprobar como los ordenan en promedio validando como los usuarios esperan encontrarse la información vs como está ordenada en la página.  
  
 
  
