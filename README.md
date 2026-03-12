@@ -105,7 +105,8 @@ En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son per
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+<img width="5884" height="4069" alt="Competitor Analysis  DIU23  (Copy) (Copia)" src="https://github.com/user-attachments/assets/abd27462-5ea1-499c-819e-86e0f4213717" />
+
 
 
 ### 1.c Personas
