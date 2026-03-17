@@ -115,7 +115,8 @@ En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son per
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
-<img width="1448" height="918" alt="Persona #1" src="https://github.com/user-attachments/assets/c9d02159-4492-4945-89f8-579c7709ab52" />
+<img width="1441" height="911" alt="Persona #1 (1)" src="https://github.com/user-attachments/assets/fa8da745-2bea-4989-ab61-812e4befff53" />
+
 
 
 <img width="1448" height="918" alt="Persona #1" src="https://github.com/user-attachments/assets/d55dd6de-3e2a-4c06-be97-bbbf91fb0266" />
