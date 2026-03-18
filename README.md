@@ -160,6 +160,23 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ![Método UX](img/usabilityReview.png) 
 ----
 
+[Ver Plantilla Usabilidad](
+
+Una vez realizado el estudio, Buga Ramen ha obtenido una puntuacion de 53/100. Esto nos indica que aunque el sistema es funcional, se queda en lo básico y presenta barreras críticas que empeoran la experiencia del usuario.
+
+En relación a los puntos fuertes, podemos destacar:
+  * Legibilidad / Estetica: El diseño es atractivo y limpio. El uso de una tipografia clara permite una lectura cómoda de la información.
+  * Visibilidad: La página no es dificil de localizar mediante una búsqueda directa
+  * Asistencia: El contacto teléfonico nos ofrece una ayuda más humana.
+
+Como puntos débiles, se destacan:
+  * Deficiencia en el sistema de reservas: No se dispone de un sistema de reservas actual. Solo se aceptan via teléfono movil.
+  * Ausencia de filtros: No existen opciones de busqueda o categorias, lo que obliga al usuario a realizar una navegación mas extensa.
+  * Estética no adaptada: Presencia de una gama de colores que ocasiona problemas en personas con dolencias oculares como el daltonismo.
+
+
+La web de Buga Ramen debe de realizar diversa mejoras para pasar de ser un escaparate visual, a una herramienta para aumentar las ventas.
+
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
