@@ -160,7 +160,7 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ![Método UX](img/usabilityReview.png) 
 ----
 
-[Ver Plantilla Usabilidad](
+[Ver Plantilla Usabilidad](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/Usability-review-Buga-ramen.pdf)
 
 Una vez realizado el estudio, Buga Ramen ha obtenido una puntuacion de 53/100. Esto nos indica que aunque el sistema es funcional, se queda en lo básico y presenta barreras críticas que empeoran la experiencia del usuario.
 
