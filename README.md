@@ -117,11 +117,11 @@ En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son per
 
 <img width="1441" height="911" alt="Persona #1 (1)" src="https://github.com/user-attachments/assets/fa8da745-2bea-4989-ab61-812e4befff53" />
 
-Alberto Montero siempre fue atraido por la época victoriana inglesa, y por los animmes clásicos, como Dragon Ball o One Piece. Finalmente se decantó por el estudio de los idiomas y actualmente se encuentra estudiando Filología Inglesa en la UGR. Es un chico afable y gusta del buen servicio en restaurantes y bares... La vida estudiantil hace que se encuentre hastiado, y, junto con sus amigos, busca desinibirse de tal estrés buscando nuevas experiencias gastronómicas.
+Alberto Montero siempre fue atraido por la época victoriana inglesa, y por los animes clásicos, como Dragon Ball o One Piece. Finalmente se decantó por el estudio de los idiomas y actualmente se encuentra estudiando Filología Inglesa en la UGR. Es un chico afable y gusta del buen servicio en restaurantes y bares... La vida estudiantil hace que se encuentre hastiado, y, junto con sus amigos, busca desinibirse de tal estrés buscando nuevas experiencias gastronómicas.
 
 <img width="1448" height="918" alt="Persona #1" src="https://github.com/user-attachments/assets/d55dd6de-3e2a-4c06-be97-bbbf91fb0266" />
 
-Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y chef de renombre en Francia. Susana es humilde, jovial y un tanto tímida. Disfruta enormemente de la comida, algo que la llevó a vivir de ello, y adora a sus hijas. Le encanta viajar, y siempre se ha sentido atraida por las diferentes culturas del mundo. Su hija estudia en la UGR (le encanta el animme, le encanta la gente, y estaba entre Tokyo o Granada). Con el fin de hacer una visita a su hija, y además disfrutar de los modernos locales de Granada, decide hacer un viaje. Ya ha probado la commida española durante toda su vida esta vez quiere una nueva experiencia gastronómica y complacer a su hija.
+Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y chef de renombre en Francia. Susana es humilde, jovial y un tanto tímida. Disfruta enormemente de la comida, algo que la llevó a vivir de ello, y adora a sus hijas. Le encanta viajar, siempre se ha sentido atraida por las diferentes culturas del mundo. Su hija estudia en la UGR (le encanta el animme, le encanta la gente, y estaba entre Tokyo o Granada). Con el fin de hacer una visita a su hija, y además disfrutar de los modernos locales de Granada, decide hacer un viaje. Ya ha probado la commida española durante toda su vida esta vez quiere una nueva experiencia gastronómica y complacer a su hija.
 
 
 ### 1.d User Journey Map
