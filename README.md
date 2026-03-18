@@ -107,6 +107,31 @@ En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son per
 
 <img width="5884" height="4069" alt="Competitor Analysis  DIU23  (Copy) (Copia)" src="https://github.com/user-attachments/assets/abd27462-5ea1-499c-819e-86e0f4213717" />
 
+**Buga Ramen** es un negocio que se ha situado en el podio de los Anime Ramen Bar **(Akihabara style)**. Combina el entretenimiento con la buena comida japonesa y hace atractivo el servicio incluyendo diferenciadores tecnológicos claros como los **robots camareros**, **pantallas para pedir**, etc. La ambientación está muy pulida y aprovecha extremadamente bien el local para ello. Está muy bien dirigida a jovenes/anime fans, se nota ya que la página está muy optimmizado para móviles porque determinaron que su principal público entraba desde ahí. Además es una franquicia, lo que aumenta aún más su consolidación en el sector.
+
+Puntos Fuertes:
+
+  - Ambiente pulido
+  - Marca consolidada
+  - Buena ubicación
+  - Fiel a la temática
+  - Numerosos productos
+
+Puntos Débiles:
+
+  - Sistema de reservas poblre
+  - Precios elevados
+  - Aglomeraciones
+  - No es un local típico de barrio su clientela depende del tirón mediático
+
+Si lo comparamos con nuestro local, claramente vemos diferencias. Primero nuestro local no recurre a tantas diferenciaciones tecnológicas, preferimos la cercanía y un experiencia más tradicional. No estamos tan consolidados en el secto, por lo que pese a nuestro gran sabor, no somos muy conocidos. Nuestro precios son más competitivos, sobre todo porque al estar empezando todo es muy casero y de cercanía. Nuestro local no permite aglomeraciones, el aforo es limitado, queremos ofrecer experiencias no bullicios. Pese a que la temática es Anime Ramen, nosotros nos centramos más en el seinen, buscamos más público adulto, a partir de los 21 años sobretodo, ya que no queremos que vengan por postureo sino por apreciación, en búsqueda de una sublime calidad, con una pulida actitud.
+
+-Puntos débiles de nuestro negocio:
+  - Nuestra carta es más recortada, y no ofrecemos demasiada variedad
+  - No tenemos tanta tecnología por lo que tiramos de personal
+  - Al limitar tanto el aforo dependemos de una clientela más habitual porque los días de gentío no los podemos aprovechar igual de bien
+
+Como mejorar/destacar: Sobretodo, debemos centrarnos en mejorar el sistema de reservas, con un mayor repertorio de idiomas, completamente online o por telefono. Podemos ofrecer numerosas vías de consulta. Hacer muy accesible nuestra página. Hemos de implementar la temática anime seinen pero respetar la sobriedad, sin sobrecargar demasiado el ambiente.
 
 
 ### 1.c Personas
