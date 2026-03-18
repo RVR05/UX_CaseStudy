@@ -152,6 +152,18 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+[Ver Journy Map 1]()
+
+Alberto Montero, es un estudiane que busca junto a su grupo de amigos, un resturante donde cenar en Granada. Dado de que uno de ellos es celiaco, era preferible un restuarante que facílite este tema. Inicialmente, encuentra la web de un local de ramen bastante atractica y moderna, lo que les genera unas buenas expectativas. Sin embargo, despues de navegar un poco por la carta, observa que no hay una sección especifica que cubra los problema mencionados anteriormente. El problema va a más, cuando al intentar gestionar la reserva se obliga a realizar una llamada telefónica en lugar de un sistema de reservas actual. 
+
+Con este caso, queda demostrado que una web con estetica impecable no es suficiente si carece en funcionalidad es tan necesarias y especificas del usuario. Este tipo de detalles resta un valor al restaurante.
+
+Los principales problemas detectados son:
+
+
+Por tanto, para poder subsanarlos proponemos las siguientes mejoras: 
+
+
 
 
 ### 1.e Usability Review
