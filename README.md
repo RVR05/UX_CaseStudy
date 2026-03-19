@@ -150,9 +150,7 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-[Ver Journy Map 1]()
+[Ver Journey Map 1]()
 
 Alberto Montero, es un estudiane que busca junto a su grupo de amigos, un resturante donde cenar en Granada. Dado de que uno de ellos es celiaco, era preferible un restuarante que facílite este tema. Inicialmente, encuentra la web de un local de ramen bastante atractica y moderna, lo que les genera unas buenas expectativas. Sin embargo, despues de navegar un poco por la carta, observa que no hay una sección especifica que cubra los problema mencionados anteriormente. El problema va a más, cuando al intentar gestionar la reserva se obliga a realizar una llamada telefónica en lugar de un sistema de reservas actual. 
 
@@ -163,7 +161,9 @@ Los principales problemas detectados son:
 
 Por tanto, para poder subsanarlos proponemos las siguientes mejoras: 
 
+[Ver Journey Map 2](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20Susana.pdf)
 
+Susana Ortega, madre, chef, aficionada al fútbol... Decide ir a visitar a su hija a Granada, donde esta se encuentra de ERASMUS. Para complacerla, intrigada por la temática Anime Ramen y a fin de probar algo más a parte de la gastronomía española (ya probada anteriormente) decide consultar, previamente a la realización del viaje, a un granadino en Marsella. Le comentan sobre la populariadad del local Buga Ramen, y se dispone a investigar, encontrando rápidamente la página y accediendo a ella. Al acceder, se encuentra una página con los contenidos estructurados y que muestra ya de primeras algunas preparaciones. Susana es chef, no solo le interesa la comida, le interesa la experiencia, quiere leer más sobre la historia del local, pero navegar por los submenús se le hacia tedioso porque algunos estaban muy ocultos. La página abusa demasiado de los colores chillones y susana es daltonica, los textos alternativos no están presentes o son erróneos, y las opciones de accesibilidad pobres o inexistentes. Susana accede a la carta tras vichear la localización, algo de historia... La carta no mejora el asunto, el fondo de esta página es blanco ahora, pero es que las letras del menú también, en el portátil no se disntiguen. Se las apaña para navegar y encuentra apetitosos platos, pero no puede ampliar imágenes o comprobar algunos de los ingredientes que llevan, porque el naranja chillón se le convierte en un marron/gris, que a veces no permite una correcta distinción. Se decide por algunos platos y se lo comenta a su hija, decidida a realizar la reserva. Al acceder al menú de reservas... NO hay posibilidad de reserva online, solo por teléfono, el cúal no aparece por ningún lado. Consigue encontrarlo y llamar, realiza la reserva y acude, pero sin una forma de comprobar la ocupación del local ni nada parecido, se encuentran conque estaba todo abarrotado y encima la reserva era más tarde. Pese a que logran comer, y la comida estaba exquisita, el sabor resultante que le deja dicha visita es agridulce, y deja en claro como el sitio web y la atención al cliente online han malogrado lo que podría haber sido una vivencia sobresaliente.
 
 
 ### 1.e Usability Review
