@@ -158,8 +158,16 @@ Con este caso, queda demostrado que una web con estetica impecable no es suficie
 
 Los principales problemas detectados son:
 
+  * Falta de filtros de busqueda: Evita tener que realizar busquedas tan extensas para encontrar lo que necesites
+  * Sistema de reservas obsoleto: La inexistencia de reserva online obliga al usuario a llamar por teléfono
+  * Contenido visual: Fotos de los platos demasiado pequeñas, que no permiten apreciar bien el producto
+
 
 Por tanto, para poder subsanarlos proponemos las siguientes mejoras: 
+
+  * Incluir una seccion de celiacos: Aumenta la claridad en la carta onlie, para platos sin gluten
+  * Digitalizar las reservas: Implementar un sistema de reservas actual para ofrecer al cliente un servicio inmediato y accesible
+  * Rediseño del contenido visual: Aumentar el tamaño y la calidad de las iamgenes de la carta
 
 [Ver Journey Map 2](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20Susana.pdf)
 
