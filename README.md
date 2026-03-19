@@ -152,7 +152,7 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ----
 [Ver Journey Map 1](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/JournyMapAlberto.pdf)
 
-Alberto Montero, es un estudiane que busca junto a su grupo de amigos, un resturante donde cenar en Granada. Dado de que uno de ellos es celiaco, era preferible un restuarante que facílite este tema. Inicialmente, encuentra la web de un local de ramen bastante atractica y moderna, lo que les genera unas buenas expectativas. Sin embargo, despues de navegar un poco por la carta, observa que no hay una sección especifica que cubra los problema mencionados anteriormente. El problema va a más, cuando al intentar gestionar la reserva se obliga a realizar una llamada telefónica en lugar de un sistema de reservas actual. 
+Alberto Montero, es un estudiane que busca junto a su grupo de amigos, un restaurante donde cenar en Granada. Dado de que uno de ellos es celiaco, era preferible un restaurante que facilite este tema. Inicialmente, encuentra la web de un local de ramen bastante atractiva y moderna, lo que les genera unas buenas expectativas. Sin embargo, despues de navegar un poco por la carta, observa que no hay una sección especifica que cubra los problema mencionados anteriormente. El problema va a más, cuando al intentar gestionar la reserva se obliga a realizar una llamada telefónica en lugar de un sistema de reservas actual. 
 
 Con este caso, queda demostrado que una web con estetica impecable no es suficiente si carece en funcionalidad es tan necesarias y especificas del usuario. Este tipo de detalles resta un valor al restaurante.
 
@@ -165,9 +165,9 @@ Los principales problemas detectados son:
 
 Por tanto, para poder subsanarlos proponemos las siguientes mejoras: 
 
-  * Incluir una seccion de celiacos: Aumenta la claridad en la carta onlie, para platos sin gluten
+  * Incluir una seccion de celiacos: Aumenta la claridad en la carta online, para platos sin gluten
   * Digitalizar las reservas: Implementar un sistema de reservas actual para ofrecer al cliente un servicio inmediato y accesible
-  * Rediseño del contenido visual: Aumentar el tamaño y la calidad de las iamgenes de la carta
+  * Rediseño del contenido visual: Aumentar el tamaño y la calidad de las imágenes de la carta
 
 [Ver Journey Map 2](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/User%20Journey%20Map%20Susana.pdf)
 
