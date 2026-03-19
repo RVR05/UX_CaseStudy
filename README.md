@@ -150,7 +150,7 @@ Hija de padres emigrantes Españoles, Susana Ortega se convirtió en madre y che
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-[Ver Journey Map 1]()
+[Ver Journey Map 1](https://github.com/RVR05/UX_CaseStudy/blob/master/P1/JournyMapAlberto.pdf)
 
 Alberto Montero, es un estudiane que busca junto a su grupo de amigos, un resturante donde cenar en Granada. Dado de que uno de ellos es celiaco, era preferible un restuarante que facílite este tema. Inicialmente, encuentra la web de un local de ramen bastante atractica y moderna, lo que les genera unas buenas expectativas. Sin embargo, despues de navegar un poco por la carta, observa que no hay una sección especifica que cubra los problema mencionados anteriormente. El problema va a más, cuando al intentar gestionar la reserva se obliga a realizar una llamada telefónica en lugar de un sistema de reservas actual. 
 
