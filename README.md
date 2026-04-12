@@ -241,11 +241,16 @@ Realizar una reserva online
 
 
 
+[Ver Flujo reserva](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_reserva.pdf
+)
+
 Consultar de carta con filtro de alérgenos
 
+[Ver Flujo carta](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_carta.pdf)
 
 Acceso a experiencia inmersiva y accesibilidad
 
+[Ver Flujo accesibilidad]()
 
 
 ### 2.c IA: Sitemap + Labelling 
