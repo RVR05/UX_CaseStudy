@@ -239,18 +239,25 @@ Tras el analisis,se trazan los siguientes 3 flujos de usuario más críticos, no
 
 Realizar una reserva online 
 
+<img width="2864" height="608" alt="flujo_reserva (1)" src="https://github.com/user-attachments/assets/db24f0c6-e211-4ad5-bcb6-5f7a4d3911c0" />
 
-
-[Ver Flujo reserva](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_reserva.pdf
+[Ver Flujo reserva]
+(https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_reserva.pdf
 )
+
 
 Consultar de carta con filtro de alérgenos
 
+<img width="4016" height="976" alt="flujo_carta (1)" src="https://github.com/user-attachments/assets/f6a287a6-be68-4725-a7fa-bedff1e7b874" />
+
 [Ver Flujo carta](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_carta.pdf)
+
 
 Acceso a experiencia inmersiva y accesibilidad
 
-[Ver Flujo accesibilidad]()
+<img width="3232" height="800" alt="flujo_accesibilidad (1)" src="https://github.com/user-attachments/assets/715ab745-6f9e-4883-b54e-179ba67af756" />
+
+[Ver Flujo accesibilidad](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_accesibilidad%20(1).pdf)
 
 
 ### 2.c IA: Sitemap + Labelling 
