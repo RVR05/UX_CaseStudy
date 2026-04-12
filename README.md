@@ -266,20 +266,44 @@ Acceso a experiencia inmersiva y accesibilidad
 
 | Término                | Significado |
 |--------------------------|-------------|
-| **Página de Inicio**     | Punto de entrada a la plataforma con acceso a todas las secciones principales. |
-| **Área de Administración** | Espacio exclusivo para administradores donde pueden gestionar eventos y talleres. |
-| **Gestión de Eventos**   | Permite a los administradores administrar los eventos disponibles en la plataforma. |
-| **Revisión de Talleres** | Sección donde los administradores pueden revisar las propuestas de talleres. |
-| **Aceptar / Rechazar Talleres** | Funcionalidad para aprobar o rechazar talleres propuestos por los usuarios. |
-| **Eventos**             | Muestra la lista de eventos disponibles con detalles e información relevante. |
-| **Información y detalles del evento** | Página con información detallada de cada evento disponible. |
-| **Inscripción**         | Permite a los usuarios registrarse en un evento. |
-| **Proponer Taller**     | Sección donde los usuarios pueden enviar propuestas de talleres. |
-| **Formulario**         | Formulario de propuesta de taller que los usuarios deben completar. |
-| **Cuenta**             | Espacio para la gestión de cuentas de usuario. |
-| **Iniciar Sesión**     | Permite a los usuarios acceder a su cuenta mediante credenciales. |
-| **Registrarse**        | Opción para que nuevos usuarios creen una cuenta en la plataforma. |
-| **Perfil**            | Página donde el usuario puede ver y editar su información personal. |
+| **Inicio**     | Página principal, es la bienvenida a la página y muestra información útil para atraer clientes. |
+| **Productos Principales** | Seccion de la página inicio, muestra algunos de los productos más valorados |
+| **¿Dónde encontrarnos?** | Sección que muestra información sobrel a ubicación y redes sociales |
+| **Comentarios y reseñas** | Sección que muestra comentarios y reseñas sobre las reservas de algunos clientes |
+| **Cuenta** | Página dedicada a las operaciones de inicio de sesión y registro de nuevos clientes |
+| **Inicio sesión** | Sección de cuenta que mostrará un formulario de inicio de sesión |
+| **Registro** | Sección de cuenta que mostrará un formulario de registro |
+| **Área cliente** | Página dedicada a mostrar información interesante al cliente |
+| **Ofertas** | Sección que mostrará ofertas exclusivas para el cliente |
+| **Avisos** | Sección del area cliente que mostrará avisos al cliente|
+| **Mis Datos** | Página donde el cliente puede consultar y editar los datos de su cuenta |
+| **Datos de la cuenta** | Sección de Mis Datos que muestra la información personal del cliente registrado |
+| **Mis Reservas** | Página donde el cliente puede consultar el historial y estado de sus reservas |
+| **Datos reservas** | Sección de Mis Reservas que muestra el detalle de cada reserva realizada por el cliente |
+| **Reseñas** | Página donde el cliente puede consultar y enviar reseñas sobre su experiencia |
+| **Información reseñas** | Sección que muestra las reseñas existentes de otros clientes |
+| **Formulario reseñas** | Sección con un formulario para que el cliente registrado envíe su propia reseña |
+| **¿Quiénes somos?** | Página que presenta el restaurante, su historia y sus valores |
+| **Nuestra historia** | Sección que narra los orígenes y trayectoria del restaurante |
+| **Nuestros valores** | Sección que describe la filosofía y valores del restaurante |
+| **Contacto** | Página con información para ponerse en contacto con el restaurante |
+| **Información de contacto** | Sección que muestra teléfono, email y otros datos de contacto |
+| **¿Dónde encontrarnos? (Contacto)** | Sección de Contacto que muestra la dirección y mapa de localización del restaurante |
+| **Carta** | Página que muestra el menú completo del restaurante organizado por categorías |
+| **Platos principales** | Sección de la carta dedicada a los platos principales |
+| **Bebidas** | Sección de la carta dedicada a las bebidas disponibles |
+| **Postres** | Sección de la carta dedicada a los postres |
+| **Plato/Bebida/Postre** | Página de detalle de un ítem concreto de la carta |
+| **Ingredientes** | Sección del detalle que lista los ingredientes del producto |
+| **Elaboración** | Sección del detalle que describe el proceso de preparación del producto |
+| **Alérgenos** | Sección del detalle que informa sobre los alérgenos presentes en el producto |
+| **Imagen más detallada** | Sección del detalle que muestra una fotografía ampliada del producto |
+| **Reservas** | Página dedicada a gestionar la realización de reservas en el restaurante |
+| **Fechas y horas** | Sección de Reservas que muestra la disponibilidad por fecha y hora |
+| **Posibilidades de reserva** | Sección que informa sobre los distintos tipos o condiciones de reserva disponibles |
+| **Realizar reserva** | Página del flujo de reserva donde el cliente formaliza y confirma su reserva |
+| **Inicia sesión (Realizar reserva)** | Sección de Realizar reserva que solicita autenticación al cliente para completar la reserva |
+
 
 
 ### 2.d Wireframes
