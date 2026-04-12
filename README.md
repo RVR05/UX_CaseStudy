@@ -264,9 +264,22 @@ Acceso a experiencia inmersiva y accesibilidad
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Término                | Significado |
+|--------------------------|-------------|
+| **Página de Inicio**     | Punto de entrada a la plataforma con acceso a todas las secciones principales. |
+| **Área de Administración** | Espacio exclusivo para administradores donde pueden gestionar eventos y talleres. |
+| **Gestión de Eventos**   | Permite a los administradores administrar los eventos disponibles en la plataforma. |
+| **Revisión de Talleres** | Sección donde los administradores pueden revisar las propuestas de talleres. |
+| **Aceptar / Rechazar Talleres** | Funcionalidad para aprobar o rechazar talleres propuestos por los usuarios. |
+| **Eventos**             | Muestra la lista de eventos disponibles con detalles e información relevante. |
+| **Información y detalles del evento** | Página con información detallada de cada evento disponible. |
+| **Inscripción**         | Permite a los usuarios registrarse en un evento. |
+| **Proponer Taller**     | Sección donde los usuarios pueden enviar propuestas de talleres. |
+| **Formulario**         | Formulario de propuesta de taller que los usuarios deben completar. |
+| **Cuenta**             | Espacio para la gestión de cuentas de usuario. |
+| **Iniciar Sesión**     | Permite a los usuarios acceder a su cuenta mediante credenciales. |
+| **Registrarse**        | Opción para que nuevos usuarios creen una cuenta en la plataforma. |
+| **Perfil**            | Página donde el usuario puede ver y editar su información personal. |
 
 
 ### 2.d Wireframes
