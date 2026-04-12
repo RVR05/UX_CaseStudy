@@ -222,7 +222,7 @@ La web de Buga Ramen debe de realizar diversa mejoras para pasar de ser un escap
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-
+(https://github.com/RVR05/UX_CaseStudy/blob/master/P2/Scope%20Canvas.pdf)
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
