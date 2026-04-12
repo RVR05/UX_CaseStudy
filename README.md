@@ -231,7 +231,22 @@ NOMBRE propone una experiencia gastronómica Seinen en Granada, caracterizada po
 ![Método UX](img/Sitemap.png) 
 -----
 
-[Ver User / Task Matrix] https://github.com/RVR05/UX_CaseStudy/blob/master/P2/user_task_matrix.pdf
+Para este analisis se ha creado un User / Task Matrix, centrada en el usuario que nos sirve para cruzar los perfiles de nuestros usuarios clave con las funcionalidades criticas de la web, revelando que interacciones son vitales para cada visitante. Al analizar las necesidades de Alberto, enfocado en la rapidez, Susana, que prioriza la accesibilidad y el personal del establecimiento centrado en la gestión
+
+[Ver User / Task Matrix](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/user_task_matrix.pdf)
+
+Tras el analisis,se trazan los siguientes 3 flujos de usuario más críticos, nos sirven de hoja de ruta para testear paso a paso la navegación, garantizando que lo que estamos construyendo no solo sea fiel a la estetica ánime sino que responda con precisión, eficiencia y total accesibilidad a la comunidad
+
+Realizar una reserva online 
+
+
+
+Consultar de carta con filtro de alérgenos
+
+
+Acceso a experiencia inmersiva y accesibilidad
+
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
