@@ -241,9 +241,7 @@ Realizar una reserva online
 
 <img width="2864" height="608" alt="flujo_reserva (1)" src="https://github.com/user-attachments/assets/db24f0c6-e211-4ad5-bcb6-5f7a4d3911c0" />
 
-[Ver Flujo reserva]
-(https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_reserva.pdf
-)
+[Ver Flujo reserva](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/flujo_reserva.pdf)
 
 
 Consultar de carta con filtro de alérgenos
