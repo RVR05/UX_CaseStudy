@@ -261,8 +261,11 @@ Acceso a experiencia inmersiva y accesibilidad
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+El sitemap ha sido realizado utilizando flowmapp tal y como se indica en el guión. Un sitemap nos permite organizar comodamente la estructura de la información de una página web de forma similar a un grafo. Cada caja representa una página diferente, se puede percibir como un html diferente. Cada sección dentro de cada página **(cada caja)** indica el orden y el contenido de la información mostrada. Nuestro sitemap contempla todas las operaciones que van a ser necesarias así como contenidos/información, desde nuestra historia hasta nuestra información de contacto, o detalles más profundos sobre cada uno de nuestros platos
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+<img width="846" height="913" alt="Captura desde 2026-04-12 20-38-37" src="https://github.com/user-attachments/assets/744752db-dde9-4460-8461-9ea88e0370d8" />
+
+Para la realización del labelling he extraido cada uno de los terminos vistos en sitemap y he indicado en que consiste, ya sea una página o una sección dentro de esta
 
 | Término                | Significado |
 |--------------------------|-------------|
