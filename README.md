@@ -222,9 +222,8 @@ La web de Buga Ramen debe de realizar diversa mejoras para pasar de ser un escap
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-(https://github.com/RVR05/UX_CaseStudy/blob/master/P2/Scope%20Canvas.pdf)
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+
+NOMBRE propone una experiencia gastronómica Seinen en Granada, caracterizada por la madurez y una calidad técnica superior frente a franquicias convencionales. A traves de un diseño centrado en la usabilidad e inclusión buscamos eliminar los problemas actuales. El objetivo es ofrecer una plataforma accesible para todo tipo de usuarios, incluyendo adaptaciones para el daltonismo y filtros claros para alérgenos, garantizando de esta forma que la excelencia del local se refleje en su interfaz digital
 
 
 
