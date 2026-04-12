@@ -231,8 +231,7 @@ NOMBRE propone una experiencia gastronómica Seinen en Granada, caracterizada po
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+[Ver User / Task Matrix] https://github.com/RVR05/UX_CaseStudy/blob/master/P2/user_task_matrix.pdf
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
