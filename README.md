@@ -207,23 +207,21 @@ La web de Buga Ramen debe de realizar diversa mejoras para pasar de ser un escap
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+<img width="1212" height="964" alt="imagen" src="https://github.com/user-attachments/assets/b8857e1c-c5c1-4e3c-a11a-e510fd2197bc" />
 
+Con el mapa de empatía nos quedan claras bastantes cosas. Alberto conoce el anime, le gusta y busca un local con el que pasar el rato con sus amigos, pero percibe el tema demasiado repetitivo, este tipo de locales anime ramen siempre se centran en los mismos tipos de anime y cree que hay muchos más. El aboga por la cultura del anime seinen (un anime maduro, con tramas más complejas, como Monster, o Berserk...).
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Susana quiere romper con los tradicionalismos que la han seguido toda la vida, su hija insiste en que pruebe este tipo de locales, y ella quiere complacerla, Susana al contrario que Alberto es más crítica sobre lo visual y funcional, pues no conoce el tema. Le preocupa que sea demasiado infantil la temática, demasiado cargada y que haya mucho bullicio en el local.
 
+Además de lo anterior, ambos coinciden en que dejan demasiado de lado la web, el sistema de reservas, y la accesibilidad. La página no es de su completo agrado, y algunos sistemas desarrollados en esta no son válidos para ellos.
+
+Se pueden percibir varios problemas individuales, y varios problemas comunes, todos solventables sin solapamientos. Rakuin Ramen busca diferenciarse del resto de locales Anime Ramen típicos abogando por una temática de anime mucho más sobrio y elegante, abrazando la madurez y descentrándose de los tipicos animes cuyas tramas son a veces demasiado "infantiles". Además quiere que lleguen clientes de todo tipo, desde la etapa de adolescencia hasta la tercera edad, por lo que la web será lo más accesible posible, permitiendo añadir filtros para daltonismo, sistemas de reservas mejorados, con multiples opciones...
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-NOMBRE propone una experiencia gastronómica Seinen en Granada, caracterizada por la madurez y una calidad técnica superior frente a franquicias convencionales. A traves de un diseño centrado en la usabilidad e inclusión buscamos eliminar los problemas actuales. El objetivo es ofrecer una plataforma accesible para todo tipo de usuarios, incluyendo adaptaciones para el daltonismo y filtros claros para alérgenos, garantizando de esta forma que la excelencia del local se refleje en su interfaz digital
+**Rakuin Ramen** propone una experiencia gastronómica Seinen en Granada, caracterizada por centrarse en un enfoque más maduro que la tradicional decoración anime shonen, por presentar una calidad técnica superior frente a franquicias convencionales y además por ejercer un estricto control del aforo y el espacio, buscando evitar los bullicios y asegurándo el espacio personal de cada cliente, ya sea un grupo de amigos, o una unica persona. A traves de un diseño centrado en la usabilidad e inclusión buscamos eliminar los problemas actuales. El objetivo es ofrecer una plataforma accesible para todo tipo de usuarios, incluyendo adaptaciones para el daltonismo y filtros claros para alérgenos, garantizando de esta forma que la excelencia del local se refleje en su interfaz digital
 
 
 
