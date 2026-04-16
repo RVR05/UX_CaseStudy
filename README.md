@@ -221,6 +221,12 @@ Se pueden percibir varios problemas individuales, y varios problemas comunes, to
 ![Método UX](img/ScopeCanvas.png)
 ----
 
+<img width="1920" height="1080" alt="Scope Canvas (Community)" src="https://github.com/user-attachments/assets/7666b948-d2ea-486f-8c49-051da49752b6" />
+
+
+[Ver ScopeCanvas](https://github.com/RVR05/UX_CaseStudy/blob/master/P2/Scope%20Canvas%20(1).pdf)
+
+
 **Rakuin Ramen** propone una experiencia gastronómica Seinen en Granada, caracterizada por centrarse en un enfoque más maduro que la tradicional decoración anime shonen, por presentar una calidad técnica superior frente a franquicias convencionales y además por ejercer un estricto control del aforo y el espacio, buscando evitar los bullicios y asegurándo el espacio personal de cada cliente, ya sea un grupo de amigos, o una unica persona. A traves de un diseño centrado en la usabilidad e inclusión buscamos eliminar los problemas actuales. El objetivo es ofrecer una plataforma accesible para todo tipo de usuarios, incluyendo adaptaciones para el daltonismo y filtros claros para alérgenos, garantizando de esta forma que la excelencia del local se refleje en su interfaz digital
 
 
