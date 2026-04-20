@@ -58,6 +58,11 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
+* Se ha utilizado la plantilla indicada en clase *
+
+<img width="1134" height="835" alt="imagen" src="https://github.com/user-attachments/assets/0d099139-52f4-4a46-a39e-5ae4ebc5262f" />
+
+
 **Background**
 
 Somos Rakuin Ramen, un restaurante que busca combinar la gastronomía auténtica y tradicional japonesa con la temática anime. Queremos ofertar una experiencia personal y única, sin importar si vas en un grupo o tú solo, garantizando el espacio personal y una atención cercana para todos los clientes. Pese a que pretendemos llegar a un público muy diverso, desde ancianos curiosos, hasta jovenes amantes del anime, buscamos diferenciarnos de los demás locales del estilo, abogando por un estilo de anime más sobrio, maduro, con tramas más complejas y no tan sobrecargado, anime Seinen. Además de la temática, nos encantaría contar con la mayor accesibilidad posible, página web, menu, carteles... Accesibles para todo tipo de personas, dáltonicas, ciegas, alérgicas, intolerantes... Buscamos ampliar los horizontes de las personas y acercarlos a una temática desconocida para muchos, evitando el encasillamiento en estilos típicos sobrecargados como el resto de locales.
