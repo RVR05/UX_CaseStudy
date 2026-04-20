@@ -17,21 +17,15 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIUx_AABB.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Rakuin Ramen - Experiencia Seinen
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Restaurante de ramen tradicional con temática de anime maduro (Seinen), enfocado en la exclusividad, la tranquilidad y la accesibilidad total.
 
 Logotipo: 
 
@@ -64,11 +58,15 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
-Para la investigación, hemos seleccionado como proyecto la página web de "Buga Ramen Granada", un restaurante de comida japonesa, que ofrece una experiencia gastronómica completa ambientado en los modernos locales de comida japonesa con tematica anime (sobre todo Shonen: One Piece, Naruto...). No tenemos conocimientos avanzados sobre como se manejan este tipo de establecimientos, sin embargo somos usuarios corrientes de estos, así que lo evaluaremos como usuarios consolidados.
+**Background**
 
-El propósito de la investigación es evaluar usabilidad de la página y analizar las carencias y puntos fuertes de esta.
+Somos Rakuin Ramen, un restaurante que busca combinar la gastronomía auténtica y tradicional japonesa con la temática anime. Queremos ofertar una experiencia personal y única, sin importar si vas en un grupo o tú solo, garantizando el espacio personal y una atención cercana para todos los clientes. Pese a que pretendemos llegar a un público muy diverso, desde ancianos curiosos, hasta jovenes amantes del anime, buscamos diferenciarnos de los demás locales del estilo, abogando por un estilo de anime más sobrio, maduro, con tramas más complejas y no tan sobrecargado, anime Seinen. Además de la temática, nos encantaría contar con la mayor accesibilidad posible, página web, menu, carteles... Accesibles para todo tipo de personas, dáltonicas, ciegas, alérgicas, intolerantes... Buscamos ampliar los horizontes de las personas y acercarlos a una temática desconocida para muchos, evitando el encasillamiento en estilos típicos sobrecargados como el resto de locales.
 
-Los objetivos principales son: 
+La hipótesis que surge en nuestras cabezas y que es el motivo por que el nace el proyecto y realizamos el research plan es: "Si ofrecemos una plataforma digital muy accesible y un sistema de reservas intuitivo y amigable para todas las edades y tipos de personas, atraeremos no solo a clientes frecuentes de este tipo de locales sino también a un público de mayor edad y a usuarios con necesidades específicas que actualmente se sienten excluidos por la competencia"
+
+**Research Goals**
+
+Los objetivos que perseguimos con la realización de este research son: 
 
  * Evaluar el atractivo visual de la página.
  * Analizar la navegabilidad general de la página
@@ -81,6 +79,28 @@ Los objetivos principales son:
  * Calificar el sistema de reserva
    * Tiempo promedio
    * Comprensibilidad
+
+**Research Questions**
+
+  - ¿Es visible la información de contacto en todo momento?
+  - ¿Es legible el texto para personas con daltonismo?
+  - ¿Resulta intuitivo el proceso de selección de fecha y hora?
+
+Para la investigación, hemos seleccionado como proyecto la página web de "Buga Ramen Granada", un restaurante de comida japonesa, que ofrece una experiencia gastronómica completa ambientado en los modernos locales de comida japonesa con tematica anime (sobre todo Shonen: One Piece, Naruto...). 
+
+**Experiencias**
+
+My personal experience: Conocemos locales de anime ramen en Granada, especialmente Buga Ramen, siempre que hemos reservado hemos tenido que buscar el telefono en alguna red social o google, y 
+si hemos delegado al reserva a alguna persona con menos pericia informatica se ha visto incapacitada a reservar.
+
+My experience as designer: Como diseñadores, basándonos en lo visto en teoría hemos analizado la competencia y detectado carencias en la usabilidad, accesibilidad y filtros de carta.
+
+As observer (ethnography): Hemos observado usuarios navegando por la web de Buga Ramen y los problemas se repiten constantemente: dificultad para encontrar submenús, ausencia de textos alternativos y problemas graves con el sistema de reservas.
+
+People say (empathy): Otros usuarios conocidos han señalado que este tipo de locales son repetitivos y que las webs no están adaptadas correctamente.
+
+
+**Research Methods**
 
 Las herramientas que utilizaremos para realizar el user reseach serán las siguientes: 
 
@@ -95,7 +115,14 @@ Las herramientas que utilizaremos para realizar el user reseach serán las sigui
 
 En cuanto al tipo de usuarios al que es dirigido la página, sobre todo, son personas jóvenes o conocedoras de anime y público que quiera probar una experienca gastronómica diferente
 
- 
+**Participant Recruitment**
+
+Respecto a los perfiles de los participantes que reclutaremos para evaluar la página encontramos los siguientes:
+
+  - Perfil A: Usuarios muy jóvenes, con cierta pericia informática. Acostumbran a realizar reservas online y no buscan reunirse con amigos. Son conocedores de la temática en mayor o menor  profundidad
+  - Perfil B: Usuarios de edad media (35-40). Se les dificultan más los sistemas modernos pero se siguen entendiendo bien. Asocian todos los animes a la misma temática infantil, y se preocupan más por el espacio (si es personal, si hay separación...) y la comida.
+  - Perfil C: Usuarios de avanzada edad. Buscan nuevas experiencias, no conocen nada del mundo anime ni del ramen y vienen recomendados. Suelen tener problemas para realizar las reservas online y agradecen una guía y alternativas para reservar
+  - Perfil D: Usuarios con problemas de accesibilidad. A parte de la pericia informatica, o si conocen la tematica o no, estos presentan problemas de accesibilidad: daltonismo, poca agudeza visual...
 
  
 
