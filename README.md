@@ -349,7 +349,23 @@ Para la realización del labelling he extraido cada uno de los terminos vistos e
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+<img width="1440" height="1024" alt="Inicio" src="https://github.com/user-attachments/assets/e4d44cce-d3a1-4afc-8028-fae5f2622826" />
+
+<img width="1440" height="1024" alt="¿Quienessomos?" src="https://github.com/user-attachments/assets/9a58010f-ceae-4179-a40f-deed29660aa6" />
+
+<img width="1440" height="1024" alt="contacto" src="https://github.com/user-attachments/assets/a3d4f675-8c8f-4d05-b595-9838981b77bb" />
+
+<img width="1440" height="1024" alt="carta" src="https://github.com/user-attachments/assets/abcf8b7f-4ec6-43b3-bd0f-68d80efcb0c7" />
+
+<img width="1440" height="1024" alt="reserva" src="https://github.com/user-attachments/assets/8ee0ec9a-beb6-4aca-a178-63c13fc3824b" />
+
+<img width="360" height="780" alt="Inicio_movil" src="https://github.com/user-attachments/assets/d64aec4e-2bb9-47be-b664-da5f0e9a4188" />
+
+<img width="360" height="780" alt="¿Quienessomos?_movil" src="https://github.com/user-attachments/assets/032a5494-2523-4907-96bf-88b3423c2e9a" />
+
+
+
+
 
 <br>
 
