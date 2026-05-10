@@ -393,8 +393,7 @@ gg
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+<img width="1920" height="1031" alt="landing page" src="https://github.com/user-attachments/assets/50e76f1e-30fd-411b-adbc-e8b56353025b" />
 
 
 ### 3.c Guidelines
