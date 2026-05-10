@@ -416,6 +416,63 @@ Estos son nuestros componentes:
 <img width="1685" height="1024" alt="componentes atomic design" src="https://github.com/user-attachments/assets/34936fd6-19b2-4dff-a84e-dedac0cc2413" />
 
 
+En cuanto a los foundations tenemos:
+
+- Paleta: se ha definido una rampa cromática completa incluyendo estados de interaccion hover y active tanto para variantes claras como oscuras
+
+- Tipografia: se ha aplicado una jerarquia tipografica clara visible en todos los componenes
+
+- Grid: Se ha utilizado AutoLayout de Figma para estructurar todos los componentes con un sistema de espaciado consistente
+
+
+Los atomos: 
+
+- Botón: Se han creado dos variantes mediante la función de variantes de Figma: botón y boton_alternativo. Ambos incluyen tres estados de tamaño o jerarquía, lo que permite reutilizarlos en contextos distintos
+
+- Inputs de formulario: Átomos de campo de texto reutilizados en los formularios de contacto y reserva, con etiqueta (label) y campo de valor (value).
+  
+- Iconos y Redes Sociales: conjunto de iconos atómicos para las redes sociales (Facebook, X, Instagram, YouTube). También se usan iconos funcionales de teléfono, ubicación y email en la sección de información directa.
+  
+- Avatar: Átomo de perfil de usuario presente de forma consistente en el extremo derecho del header en todas las páginas
+
+Las moleculas: 
+
+- Plato: Molécula compuesta por imagen del plato, nombre y descripción. Se reutiliza de forma sistemática en la página de Carta.
+
+- Card de reseña: Molécula formada por el átomo de estrellas, un título y el cuerpo de la reseña. Se despliegan tres instancias en la página de inicio con valoraciones reales.
+  
+- Moléculas de lista con checkboxes para filtrar los platos de la carta por categoría (Ramen, Entrantes, Bebidas, Postres) y por atributo dietético (Picante, Sin gluten, Vegano, Sin F.secos).
+
+- Componente de Contacto Molécula que agrupa los datos de contacto directo: teléfono, ubicación y email.
+  
+- Componente de Fechas: Molécula de selección de fecha y hora
+  
+- Carrusel: Molécula de presentación visual con imagen destacada utilizada en la página de inicio para mostrar algunos platos del menú.
+
+
+Los organimos:
+
+- Header / Navbar: Organismo que integra el logotipo, el nombre del restaurante, la barra de navegación con cinco destinos (Inicio, ¿Quiénes somos?, Contacto, Carta, Reserva) y el avatar de usuario. Se repite de forma idéntica en todas las páginas.
+  
+-Footer: Organismo compuesto por los iconos de redes sociales centrados, una línea divisoria y tres enlaces textuales (Ayuda, Copyright, Preguntas frecuentes) distribuidos en los extremos. Presente en todas las páginas.
+
+
+- Hero Section: Organismo de portada que combina la imagen de fondo del restaurante, el carrusel de platos a la izquierda, el titular principal, el subtexto descriptivo y el botón "Contempla Nuestro Menú"
+  
+- Formulario de contacto: Organismo de recogida de datos formado por (Nombre, Apellidos, Email, Mensaje) y el botón de envío, con encabezado "Déjanos tu mensaje".
+  
+- Sección de Carta: Organismo que combina las cards de platos en una cuadrícula de dos columnas, las imágenes decorativas laterales y los paneles de Categorías y Filtros.
+
+
+Los patrones: 
+
+- Página de Reserva: Patrón de flujo de reserva que ofrece dos caminos al usuario: identificarse y seleccionar fecha/hora directamente, o rellenar un formulario de solicitud sin necesidad de cuenta. Esto responde a distintos perfiles de usuario.
+
+- Página de Contacto: Patrón de contacto multicanal que combina el formulario de mensaje, la información directa (teléfono, dirección, email), el mapa de ubicación y los horarios.
+  
+- Página ¿Quiénes somos?: Patrón de presentación de marca que alterna bloques de texto con imágenes del local y del producto, construyendo la narrativa e identidad del restaurante.
+
+
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
