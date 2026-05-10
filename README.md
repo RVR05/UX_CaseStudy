@@ -378,16 +378,15 @@ Para la realización del labelling he extraido cada uno de los terminos vistos e
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
-gg
+
+El logotipo es el siguiente 
+
+<img width="329" height="314" alt="logo" src="https://github.com/user-attachments/assets/02cae642-3dda-4bac-82b7-ea811dfbc022" />
 
 
 
 
 
-
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
