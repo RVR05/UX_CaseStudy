@@ -392,9 +392,13 @@ El logotipo es el siguiente
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-<img width="1920" height="1031" alt="landing page" src="https://github.com/user-attachments/assets/50e76f1e-30fd-411b-adbc-e8b56353025b" />
+
+<img width="1850" height="4419" alt="landing page" src="https://github.com/user-attachments/assets/553bb3f9-22a0-4faf-a2d0-24c61e86a16a" />
+
 
 El landing page es la carta de presentación de nuestro local. El objetivo principal, lo que queremos que deje bien claro, son nuestros valores y quienes somos, qué nos diferencia. Luego hemos aportado contenido secundario, como una bienvenida o invitación a ver el menú, a realizar una reserva así como información varia sobre el local (horarios...).
+
+Este es el enlace de figma para acceder al recurso interactivo: https://slash-edit-31597285.figma.site
 
 
 ### 3.c Guidelines
