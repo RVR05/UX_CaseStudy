@@ -29,7 +29,7 @@ Restaurante de ramen tradicional con temática de anime maduro (Seinen), enfocad
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width="329" height="314" alt="logo" src="https://github.com/user-attachments/assets/02cae642-3dda-4bac-82b7-ea811dfbc022" />
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  AA     :octocat:     
@@ -384,8 +384,7 @@ El logotipo es el siguiente
 <img width="329" height="314" alt="logo" src="https://github.com/user-attachments/assets/02cae642-3dda-4bac-82b7-ea811dfbc022" />
 
 
-
-
+[Moodboard25 (Copia).pdf](https://github.com/user-attachments/files/27574420/Moodboard25.Copia.pdf)
 
 
 
@@ -405,8 +404,16 @@ Este es el enlace de figma para acceder al recurso interactivo: https://slash-ed
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para crear los guidelines nos hemos valido de dos cosas:
+  - Tokes y variables gloables, tanto para la paleta de colores, como para configuraciones de texto, nos facilitarán pues la modificacion simultanea de un atributo de un conjunto de componentes
+    facilitando el trabajo enormemente.
+  - Hemos utilizado el principio del atomic design, diseñando primeramente los componentes "átomos" luego moleculas, organismos... hasta llegar a formar un patrón.
+
+[Enlace al figma con los marcos y componentes](https://www.figma.com/design/j8LniI2NHwNljPANwfE8wN/Sin-t%C3%ADtulo?node-id=0-1&t=qTN9bh70es4QwFnT-1)
+
+Estos son nuestros componentes:
+
+<img width="1685" height="1024" alt="componentes atomic design" src="https://github.com/user-attachments/assets/34936fd6-19b2-4dff-a84e-dedac0cc2413" />
 
 
 ### 3.d Mockup
