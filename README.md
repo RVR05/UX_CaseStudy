@@ -416,6 +416,10 @@ Estos son nuestros componentes:
 <img width="1685" height="1024" alt="componentes atomic design" src="https://github.com/user-attachments/assets/34936fd6-19b2-4dff-a84e-dedac0cc2413" />
 
 
+
+
+
+
 En cuanto a los foundations tenemos:
 
 - Paleta: se ha definido una rampa cromática completa incluyendo estados de interaccion hover y active tanto para variantes claras como oscuras
@@ -454,7 +458,7 @@ Los organimos:
 
 - Header / Navbar: Organismo que integra el logotipo, el nombre del restaurante, la barra de navegación con cinco destinos (Inicio, ¿Quiénes somos?, Contacto, Carta, Reserva) y el avatar de usuario. Se repite de forma idéntica en todas las páginas.
   
--Footer: Organismo compuesto por los iconos de redes sociales centrados, una línea divisoria y tres enlaces textuales (Ayuda, Copyright, Preguntas frecuentes) distribuidos en los extremos. Presente en todas las páginas.
+- Footer: Organismo compuesto por los iconos de redes sociales centrados, una línea divisoria y tres enlaces textuales (Ayuda, Copyright, Preguntas frecuentes) distribuidos en los extremos. Presente en todas las páginas.
 
 
 - Hero Section: Organismo de portada que combina la imagen de fondo del restaurante, el carrusel de platos a la izquierda, el titular principal, el subtexto descriptivo y el botón "Contempla Nuestro Menú"
