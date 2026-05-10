@@ -371,12 +371,19 @@ Para la realización del labelling he extraido cada uno de los terminos vistos e
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+
+
 
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+gg
+
+
+
+
+
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
