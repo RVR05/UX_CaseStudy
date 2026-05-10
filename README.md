@@ -428,12 +428,7 @@ Este es el enlace de figma para acceder al recurso interactivo: https://slash-ed
 
 <img width="1440" height="1223" alt="Reservas" src="https://github.com/user-attachments/assets/7ce4ffa9-8981-484f-bc70-c705206dfa7e" />
 
-
-
-
-
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+[Acceso al recurso interactivo](https://www.figma.com/proto/j8LniI2NHwNljPANwfE8wN/Sin-t%C3%ADtulo?node-id=40-331&t=JKTLs73cPNA4EQrb-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A3522)
 
 
 <br>
