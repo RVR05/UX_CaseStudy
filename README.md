@@ -402,6 +402,26 @@ Para la realización del labelling he extraido cada uno de los terminos vistos e
 ![Método UX](img/mockup.png) 
 ----
 
+
+<img width="1440" height="1667" alt="Inicio (1)" src="https://github.com/user-attachments/assets/d9bcbe73-164c-48d4-8fa0-ba7593513842" />
+
+<img width="1440" height="1184" alt="Quienes somos" src="https://github.com/user-attachments/assets/dd32e3ef-762c-4efd-b78a-7052ae246d48" />
+
+
+
+<img width="1440" height="1024" alt="Contacto" src="https://github.com/user-attachments/assets/2c4ea3f9-444b-4cf2-ad0e-b8e93a54c175" />
+
+
+<img width="1440" height="1024" alt="Carta" src="https://github.com/user-attachments/assets/0224cc98-639a-4c9d-b4e9-81ebcaa38a3e" />
+
+
+<img width="1440" height="1223" alt="Reservas" src="https://github.com/user-attachments/assets/7ce4ffa9-8981-484f-bc70-c705206dfa7e" />
+
+
+
+
+
+
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
