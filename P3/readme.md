@@ -7,8 +7,6 @@
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
 
 El logotipo es el siguiente 
 
@@ -20,8 +18,6 @@ El logotipo es el siguiente
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
 
 <img width="1850" height="4419" alt="landing page" src="https://github.com/user-attachments/assets/553bb3f9-22a0-4faf-a2d0-24c61e86a16a" />
 
@@ -32,8 +28,7 @@ Este es el enlace de figma para acceder al recurso interactivo: https://slash-ed
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+
 
 Para crear los guidelines nos hemos valido de dos cosas:
   - Tokes y variables gloables, tanto para la paleta de colores, como para configuraciones de texto, nos facilitarán pues la modificacion simultanea de un atributo de un conjunto de componentes
@@ -109,8 +104,7 @@ Los patrones:
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
+
 
 
 <img width="1440" height="1667" alt="Inicio (1)" src="https://github.com/user-attachments/assets/d9bcbe73-164c-48d4-8fa0-ba7593513842" />
