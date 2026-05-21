@@ -32,8 +32,8 @@ Logotipo:
 <img width="329" height="314" alt="logo" src="https://github.com/user-attachments/assets/02cae642-3dda-4bac-82b7-ea811dfbc022" />
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Roberto Vera Ramos     :octocat:     
+ * :bust_in_silhouette:  Alejandro Ortega Martín     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
