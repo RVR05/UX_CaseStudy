@@ -539,6 +539,16 @@ Nuestro caso B pertenece al grupo DIU3.ColesterMax, cuyo repositorio tiene el si
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Para la evaluacion de la propuesta realizaremos dos pruebas de usabilidad, en ellas los participantes deberan completar una serie de tareas. El obejtivo es ver como interactuan con la interfáz.
+
+Prueba 1: Consulta de carta y busqueda de informacion sobre alérgenos
+
+En esta prueva el usuario debera acceder a la carta del restaurante y posteriormente debera comprobar si los producto contienen alguna informacíon de los alérgenos o si hay alguna página donde haya información sobre estos. El objetivo es evaluar que la carta y la consulta de los alérgenos es visible y facil.
+
+Prueba 2: Realizar una reserva
+
+En esta tarea el usuario debera acceder al apartado de reservas y completar el formulario correspondiente. Aqui valoramos la faclidad para encontrar la seccion de reservas, comprobar la facilidad para realizarla y ver si el proceso de reserva resulta rapido
+
 
 
 ### 5.c Cuestionario SUS
