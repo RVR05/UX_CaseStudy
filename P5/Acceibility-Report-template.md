@@ -22,10 +22,10 @@ Lighthouse ha puntuado con un 77 sobre 100 para el prototipo de Goiko Finder en 
 
 <img width="365" height="810" alt="image" src="https://github.com/user-attachments/assets/3c9e9d24-48a4-479d-8bfa-30e5d32dc13f" />
 
-Numero de errores criticos: 0
-Alertas: 4
-Errores de contraste: 0
-AIM Score 9.9 / 10
+* Numero de errores criticos: 0
+* Alertas: 4
+* Errores de contraste: 0
+* AIM Score 9.9 / 10
 
 Tras el analisis en WAVE, Goiko Finder obtiene un 9,9 sobre 10, lo que indica una gran excelencia. La herramienta no ha detectado nignun error critnico ni errores de contraste, lo que indica que se hace un buen diseño de imagenes y elementos visuales. No obstante si ha detectado 4 alertas por la ausencia de encabezados, la falta de regiones de paginas definidas y la presencia de un elemento <noscript>. 
 
