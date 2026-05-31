@@ -815,7 +815,7 @@ A continuación se muestran los mapas de calor generados para cada participante 
 ![Método UX](img/usability-report.png) 
 -----
 
-(./P5/Usability-Report.md)[Usability Report]
+[Usability Report](./P5/Usability-Report.md)
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
