@@ -50,11 +50,25 @@ La puntuación final obtenida para este proyecto en el cuestionario SUS es de 72
 
 ## 2. Metodología y Reclutamiento
 
-[Describe el "cómo"]
+### Perfil de los participantes:
 
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+Los perfiles de los participantes escogidos son muy variados, intentado escoger de todo tipo de personas, asegurando así diversidad en edad, género y nivel de experiencia tecnológica. Desde empleadas del hogar con edad avanzada, hasta jóvenes estudiantes.
+
+### Escenario de la prueba:
+
+Los participantes interactuaron con el prototipo de Goiko Finder completando dos tareas:
+
+  - Prueba 1 — Consulta de carta y búsqueda de información sobre alérgenos: el usuario accede a la carta del restaurante y localiza la información de alérgenos. Evalúa visibilidad y accesibilidad de esta sección.
+    
+  - Prueba 2 — Realizar una reserva: el usuario localiza el apartado de reservas y completa el formulario. Evalúa la facilidad para encontrar la sección y la fluidez del proceso.
+    
+### Herramientas:
+
+Las herramientas utilizadas se listan a continuación:
+
+  - GazeMapping: plataforma de Eye Tracking basada en webcam para registro de movimientos oculares y generación de mapas de calor.
+  - Tally: recogida del cuestionario SUS digital, aunque no lo usamos directamente, nos basamos en el.
+  - Excel: cálculo y verificación de las puntuaciones SUS mediante el algoritmo estándar.
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
