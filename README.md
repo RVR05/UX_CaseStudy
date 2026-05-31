@@ -613,7 +613,18 @@ A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+
+Pasamos a realizar una tabla comparativa entre los dos casos:
+
+| Métrica          | Caso A      | Caso B      |
+|------------------|-------------|-------------|
+| Media SUS        | 85          | 72.25       |
+| Eval Lingüística | Excelente   | Buena       |
+| Max Score        | 100.0       | 90          |
+| Min Score        | 47.5        | 35          |
+
+
+Tras el analisis del cuestionario SUS, podemoos concluir que el Caso A supera al caso B, y ademas es el ganador con una media de 85. Esto deja ver que la interfaz diseñada es solida y consistente  ante una experiencia de usuario notablemente variable (maximo de 100 y minimo de 47.5). Por otro lado, el caso B obtiene una media de 72.25, que refleja un buen resultado pero inferior, on una evaluacion linguística también positiva pero evidencia un rango de puntuaciones mas limitado, lo que sugiere margen de mejora en diversos aspectos
 
 ### 5.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
