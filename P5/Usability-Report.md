@@ -190,8 +190,21 @@ Valoración numérica del SUS: 72.25
 | ![P8 Prueba 2 - img 1](./P8_2.1.jpg) | ![P8 Prueba 2 - img 2](./P8_2.2.jpg) |
 
 
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+### Zonas de Silencio:
+
+  - Tanto el footer como el header se han ignorado completamente
+  - Muchas de las opciones que se presentan en la zona inferior a veces son ignoradas completamente, ya sea porque están demasiado abajo o porque se alejan del contenido principal...
+  - La zona de filtros, ofertas... presente en la zona inferior izquierda también es completamente ignorada
+
+### Hallazgos clave:
+
+  - El formulario de reservas es externo, y el campo de personas es ignorado.
+
+  - El módulo de acceso rápido de la derecha, con los botones para ir a reservar o ver el menú es ignorado inicialmente por un gran numero de participantes (en torno al 80% si contamos los heatmap) en la tarea 1, es decir, al principio de todo cuando un participante ve por primera vez la página, se descentra demasiado viendo las imágenes, o las diversas opciones. De hecho en los primeros participantes, estos navegaban hasta abajo de la página antes de acceder al menú de alérgenos.
+
+  - Las imagenes de las hamburguesas y ofertas contrastan mucho (color negro y dorado) lo que atrae demasiado la atención, eso está bien cuando quieres que la gente perciba las ofertas, pero si tu página se centra en la accesibilidad y rendimiento, limita mucho, pues aleja al usuario de las CTAs funcionales.
+
+  - En la página de alérgenos el bloque de picante no recibe a penas atención, la gente no se da cuenta o lo ignora totalmente.
 
 ## 5. Auditoría de Accesibilidad
 
@@ -206,9 +219,11 @@ No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomen
 
 | **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
+| **Alta (Crítica)** | Página redirige a dominio externo (goiko.com) para reservas: dominio, estética y menú de navegación distintos generan desconfianza e interrupción del flujo. | Integrar el formulario de reservas dentro del mismo dominio/prototipo |
+| **Alta (Crítica)** | Sobrecarga de contenido en el homepage, no quedan claros los CTAs, los usuarios se pierden entre restaurantes, hamburguesas, y opciones de pedido. | Debería reducirse el numero de secciones y de contenido scrolleable, y centrar las funciones/botones principales de forma que sea lo primero que se vea para que la gente lo tenga en cuenta lo primero y sepa donde pulsar si requiere alguna acción
+| **Media**          | En el formulario de reservas (Prueba 2) todos los usuarios se concentran en el campo fecha y el botón BUSCAR MESA, pero ignoran el selector Personas, puede provocar errores o despistes en la reserva (imagina que has reservado una mesa que intuyes es para 4 pero luego solo es para 2) . | Reordenar los campos, obligando al usuario a pasar por el de personas primero |
+| **Baja**           | Zona de Actualizaciones tiene atención muy escasa en todos los mapas. Ocupa espacio pero no aporta valor a las tareas principales. | Eliminar o contraer la sección Actualizaciones en la vista por defecto, podría introducirse en un desplegable.|
+| **Baja**           | El header del prototipo propio (Goiko Finder) apenas recibe atención visual en ningún participante de Caso B, la barra con logo y búsqueda pasa completamente desapercibida. | Aumentar el peso visual del header: logo más grande, barra de búsqueda con placeholder descriptivo ('Busca restaurante, plato o ciudad...'), y añadir navegación principal visible, es decir, los botones de acceso rapido podría introducirse también en el header para que centre más atención. |
 
 
 
