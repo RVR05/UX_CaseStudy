@@ -46,9 +46,14 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### B. Operable
 
-- **Hallazgo:** "Indicador de foco invisible en el menú".
-- **Impacto:** Un usuario que navega con teclado no sabe dónde está situado.
-- **Solución:** Definir un estilo CSS para `:focus` con alto contraste.
+- **Hallazgo:** "Ausencia de regiones de página. WAVE alerta de la ausencia de landmarks semánticos (`<header>`, `<main>`, `<nav>`, `<footer>`). Al ser una SPA React construida con `<div>` anidados sin roles ARIA, los usuarios de teclado o lector de pantalla no pueden saltar directamente a la sección que les interesa y deben recorrer la página entera elemento a elemento." — Criterio WCAG: 2.4.1 (Nivel A) y 2.4.3 (Nivel AA)
+- **Impacto:** Un usuario que navega exclusivamente con teclado debe pulsar Tab repetidamente a través de todos los elementos de la cabecera y los filtros antes de alcanzar el contenido principal, lo que resulta especialmente frustrante en una página con muchos elementos interactivos como filtros, tarjetas y botones.
+- **Solución:** Añadir `<main>`, `<nav>` y `<footer>` semánticos en los contenedores del layout React, o en su defecto `role="main"` y `role="navigation"`, e implementar un *skip link* como primer elemento del DOM.
+
+
+- **Hallazgo:** "Enlaces que redirigen fuera del prototipo sin advertencia. Algunos botones del prototipo llevan al usuario a páginas externas no controladas, como la web oficial de Goiko, sin informarle de que abandonará la aplicación. Esto ocurre por ejemplo en el botón de reserva, que ejecuta `window.open('https://www.goiko.com/es/reservas/', '_blank')` llevando al usuario directamente a la web real de Goiko." — Criterio WCAG: 2.4.4 (Nivel AA)
+- **Impacto:** El usuario, especialmente si usa lector de pantalla o tiene dificultades cognitivas, puede desorientarse al ser trasladado a un contexto completamente diferente sin haberlo esperado, rompiendo el flujo de navegación y generando confusión sobre dónde se encuentra.
+- **Solución:** Indicar explícitamente en la etiqueta del enlace que abre una página externa, por ejemplo `aria-label="Reservar en Goiko — abre en nueva pestaña"`, o bien simular la acción de reserva dentro del propio prototipo para mantener la coherencia de la experiencia.
 
 
 
