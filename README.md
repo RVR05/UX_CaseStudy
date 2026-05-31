@@ -555,15 +555,7 @@ En esta tarea el usuario debera acceder al apartado de reservas y completar el f
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-# Plantilla de Usabilidad del Website (SUS)
-
-Instrucciones: Marque con una X el número que mejor refleje su opinión sobre el website evaluado.  
-**1** = Totalmente en desacuerdo &nbsp;&nbsp; **5** = Totalmente de acuerdo
+Para la evalación SUS, vamos a utilizar la siguiente plantilla, donde 1 implica totalmente en desacuerdo y 5 totalmente de acuerdo. Se valoran puntos como el agrado con la web, si la volvería a usar, la facilidad con la que la usa, si estaba comodo el usuario... Se ha utilizado excel, se ha rellenado a mano el cuestionario y se han obtenido los valores utilizando funciones de excel para calcular los valores. El formato es el siguiente:
 
 ---
 
@@ -582,9 +574,41 @@ Instrucciones: Marque con una X el número que mejor refleje su opinión sobre e
 
 ---
 
-**Website evaluado:** ___________________________________  
-**Fecha:** ___________________  
-**Evaluador:** ___________________________________
+Tras la realización de las pruebas se han obtenido los siguientes resultados individuales:
+
+## Resultados Individuales del Cuestionario SUS
+
+A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5) obtenidas para cada una de las 10 preguntas del cuestionario System Usability Scale (SUS), junto con la puntuación final calculada para cada participante.
+
+| Caso | Participante | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 | Puntuación SUS |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Caso B** | P1 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso B** | P1 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso B** | P2 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso B** | P2 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso B** | P3 - 1 | 5 | 1 | 5 | 2 | 5 | 1 | 5 | 1 | 5 | 1 | **97.5** |
+| **Caso B** | P3 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso B** | P9 - 1 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | 3 | 2 | 3 | **47.5** |
+| **Caso B** | P9 - 2 | 4 | 2 | 3 | 3 | 3 | 2 | 5 | 3 | 2 | 3 | **60.0** |
+| **Caso B** | P10 - 1 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 1 | 4 | 3 | **75.0** |
+| **Caso B** | P10 - 2 | 4 | 2 | 4 | 1 | 3 | 4 | 4 | 1 | 3 | 2 | **70.0** |
+| **Caso A** | P4 - 1 | 4 | 2 | 2 | 1 | 4 | 1 | 5 | 3 | 5 | 1 | **80.0** |
+| **Caso A** | P4 - 2 | 5 | 1 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 1 | **90.0** |
+| **Caso A** | P5 - 1 | 3 | 3 | 4 | 2 | 4 | 1 | 4 | 2 | 4 | 2 | **72.5** |
+| **Caso A** | P5 - 2 | 2 | 2 | 4 | 2 | 5 | 1 | 4 | 3 | 4 | 2 | **72.5** |
+| **Caso A** | P6 - 1 | 5 | 3 | 3 | 1 | 5 | 2 | 5 | 3 | 3 | 2 | **75.0** |
+| **Caso A** | P6 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 2 | 2 | 5 | 1 | **90.0** |
+| **Caso A** | P7 - 1 | 2 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | **42.5** |
+| **Caso A** | P7 - 2 | 3 | 4 | 2 | 4 | 2 | 3 | 2 | 3 | 3 | 4 | **35.0** |
+| **Caso A** | P8 - 1 | 5 | 2 | 4 | 1 | 4 | 1 | 4 | 2 | 4 | 1 | **85.0** |
+| **Caso A** | P8 - 2 | 5 | 2 | 3 | 1 | 3 | 1 | 4 | 2 | 4 | 1 | **80.0** |
+
+### Resumen de Métricas Globales
+
+| Métrica | Resultado | Calificación | Grado de Aceptabilidad |
+| :--- | :---: | :---: | :---: |
+| **Media Caso B** | **85.00** | A / A+ | Excelente / Altamente Aceptable |
+| **Media Caso A** | **72.25** | C+ / B- | Bueno / Aceptable |
 
 
 ### 5.d A/B Testing
