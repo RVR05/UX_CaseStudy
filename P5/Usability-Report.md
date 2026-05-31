@@ -38,6 +38,8 @@ Para realizar este estudio, la metodología se basa en una combinación de técn
 ### Principales Hallazgos:
 
   - El primero y más importante es que la mayoría de usuarios consideran que la página es demasiado grande, tiene demasiados elementos, o se distraen con demasiada facilidad. Lo que difilcuta la navegación y reduce la accesibilidad en personas con problemas como TDAH...
+
+  - El segundo es que pese a que lo normal tras la prueba de un sitio web, es que las siguientes tareas salgan de forma más sencilla, en todos los participantes se dio una media inferior en la segunda tarea de reserva, lo que implica que el flujo no está siendo muy bien recibido.
    
   - Otro hallazgo fue que con la sobrecarga de la página muchos elementos pasaban desapercibidos, zonas como el mapa, algunas ofertas... O el header, que apenas se percibió
 
@@ -85,7 +87,7 @@ Las herramientas utilizadas se listan a continuación:
 
 El prototipo B se mantiene cerca del A con una puntuación SUS de 72.25, percibiendose como un buen prototipo. La evaluación del caso B de cada participante fue la siguiente:
 
-| Caso | Participante | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Puntuación SUS |
+| Caso | Participante | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | P10 | Puntuación SUS |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Caso B** | P4 - 1 | 4 | 2 | 2 | 1 | 4 | 1 | 5 | 3 | 5 | 1 | **80.0** |
 | **Caso B** | P4 - 2 | 5 | 1 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 1 | **90.0** |
@@ -98,13 +100,17 @@ El prototipo B se mantiene cerca del A con una puntuación SUS de 72.25, percibi
 | **Caso B** | P8 - 1 | 5 | 2 | 4 | 1 | 4 | 1 | 4 | 2 | 4 | 1 | **85.0** |
 | **Caso B** | P8 - 2 | 5 | 2 | 3 | 1 | 3 | 1 | 4 | 2 | 4 | 1 | **80.0** |
 
-Se percibe claro un problema con el participante 7 y la soltura de la web. Además hay otros puntos que si bien no tienen picos negativos muy altos mantienen una media muy negativa como la pregunta 8 sobre el tamaño del sitio.
+Se percibe claro un problema con el participante 7 y la soltura de la web. La Tarea 2 (reserva) obtiene sistemáticamente puntuaciones inferiores a la Tarea 1 en todos los participantes, lo que apunta al flujo de reservas como el principal problema de usabilidad. Además hay otros puntos que si bien no tienen picos negativos muy altos mantienen una media muy negativa como la pregunta 8 sobre el tamaño del sitio.
 
 ### Desglose por ítems:
 
+Primero hay que entender el promedio, si es una pregunta impar es una pregunta positiva, luego a mayor promedio mejor. Si es una pregunta par es justo al contrario.
 
+En general la pregunta que ha obtenido de media la peor puntuación negativa es la pregunta 3 (promedia un 3.4 siendo impar), esta evalua si "Pensé que era fácil utilizar este website", lo que indica que la página no es normalmente muy intuititiva, algo cuesta siempre, sin importar cuanta pericia tengas. La siguiente peor evaluada es la pregunta 8 (promedia un 2.5 siendo par), que evalua si "Encontré el website muy grande al recorrerlo". Puede parecer engañoso porque ningún participante puso una nota fatídica a esta pregunta, pero si nos fijamos la media sigue siendo muy mala con respecto a las demás, esto es porque por lo general, la gente no tiene un problema muy grande con que la pagina sea de largo recorrido, o mucho scrolleo, pero si que resulta molesto de forma generalizada. La pregunta 7 tampoco tiene buena valoración (promedia un 3.7) y se refiere a si se imagina que la mayoría de las personas aprenderían muy rápidamente a utilizar el website, ergo los participantes creen que no les resultaría lo más fácil del mundo, pero tampoco demasiado difícil
 
-Valoración numérica del SUS - 
+Por lo demás, hay otras preguntas que tampoco tienen buena valoración pero la desviación con respecto a la media es menos alarmante. En general la página se evalua correctamente pero debería mejorar el tamaño así como que tan intuitiva se presenta.
+
+Valoración numérica del SUS: 72.25
 
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
