@@ -575,7 +575,7 @@ Como nuestros usuarios deben realizar dos tareas en la web, tras cada una de est
 
 Tras la realización de las pruebas se han obtenido los siguientes resultados individuales:
 
-## Resultados Individuales del Cuestionario SUS
+#### Resultados Individuales del Cuestionario SUS
 
 Para obtener los resultados se ha hecho uso del algoritmo de cálculo estandarizado de la escala SUS visto en clase y contemplado en diversas guias:
 
