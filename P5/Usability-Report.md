@@ -6,15 +6,15 @@
 
 ### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
 
-[Fecha]
+31/05/2026
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+[Enlace a GITHUB del proyecto](https://github.com/DIUGrupoColesterMax/UX_CaseStudyColesterMax)
 
 ### Realizado por:  
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Informe realizado por Equipo DIU1.LosPsicomotronic
 
 
  
@@ -22,11 +22,26 @@
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
+### Objetivo:
 
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
-- **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
+El objetivo de nuestro usablity report es la evaluación de la usabilidad y accesibilidad del prototipo web proporcionado por DIU3.ColesterMax. En este informe se recopilan tanto datos numéricos (como las puntuaciones del test SUS) como comportamientos visuales (mediante el Eye Tracking) para detectar fallos de diseño, problemas de navegación o barreras de accesibilidad.
+
+### Metodología:
+
+Para realizar este estudio, la metodología se basa en una combinación de técnicas de evaluación de usabilidad. En concreto, se han utilizado tres fundamentales:
+
+  - Test A/B (Prueba comparativa de tareas): Se han diseñado 2 grupos divesos de participantes (5 en cada uno) dedicados a comparar este proyecto con otros (como el nuestro)
+    
+  - Cuestionario SUS: Es una herramienta cuantitativa estándar de 10 preguntas. Los usuarios rellenan el test justo al terminar las tareas, luego los resultados pasan por un algoritmo y se calcula la puntuación SUS, que nos permite transformar esa subjetividad en una puntuación numérica.
+
+  - Análisis de Eye Tracking (usando la herramienta GazeMapping): Es una prueba que registra de forma visual el comportamiento real del usuario. Permite obtener mapas de calor para comprobar qué elementos llaman la atención, cuáles se ignoran por completo...
+
+### Principales Hallazgos:
+
+  - El primero y más importante es que la mayoría de usuarios consideran que la página es demasiado grande, tiene demasiados elementos, o se distraen con demasiada facilidad. Lo que difilcuta la navegación y reduce la accesibilidad en personas con problemas como TDAH...
+   
+  - Otro hallazgo fue que con la sobrecarga de la página 
+
 - **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
 
 
