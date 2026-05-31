@@ -83,7 +83,26 @@ Las herramientas utilizadas se listan a continuación:
 
 <img width="538" height="575" alt="Captura desde 2026-06-01 00-58-54" src="https://github.com/user-attachments/assets/e7469aa8-116a-4c85-af9b-0e38e9b1da62" />
 
-- **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
+El prototipo B se mantiene cerca del A con una puntuación SUS de 72.25, percibiendose como un buen prototipo. La evaluación del caso B de cada participante fue la siguiente:
+
+| Caso | Participante | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Puntuación SUS |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Caso B** | P4 - 1 | 4 | 2 | 2 | 1 | 4 | 1 | 5 | 3 | 5 | 1 | **80.0** |
+| **Caso B** | P4 - 2 | 5 | 1 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 1 | **90.0** |
+| **Caso B** | P5 - 1 | 3 | 3 | 4 | 2 | 4 | 1 | 4 | 2 | 4 | 2 | **72.5** |
+| **Caso B** | P5 - 2 | 2 | 2 | 4 | 2 | 5 | 1 | 4 | 3 | 4 | 2 | **72.5** |
+| **Caso B** | P6 - 1 | 5 | 3 | 3 | 1 | 5 | 2 | 5 | 3 | 3 | 2 | **75.0** |
+| **Caso B** | P6 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 2 | 2 | 5 | 1 | **90.0** |
+| **Caso B** | P7 - 1 | 2 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | **42.5** |
+| **Caso B** | P7 - 2 | 3 | 4 | 2 | 4 | 2 | 3 | 2 | 3 | 3 | 4 | **35.0** |
+| **Caso B** | P8 - 1 | 5 | 2 | 4 | 1 | 4 | 1 | 4 | 2 | 4 | 1 | **85.0** |
+| **Caso B** | P8 - 2 | 5 | 2 | 3 | 1 | 3 | 1 | 4 | 2 | 4 | 1 | **80.0** |
+
+Se percibe claro un problema con el participante 7 y la soltura de la web. Además hay otros puntos que si bien no tienen picos negativos muy altos mantienen una media muy negativa como la pregunta 8 sobre el tamaño del sitio.
+
+### Desglose por ítems:
+
+
 
 Valoración numérica del SUS - 
 
