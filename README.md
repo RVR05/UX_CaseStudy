@@ -514,9 +514,8 @@ Nos hemos quedado sin tokens hasta el 1 de junio por lo que la página de Inicio
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+Nuestro caso B pertenece al grupo DIU3.ColesterMax, cuyo repositorio tiene el siguiente enlace https://github.com/DIUGrupoColesterMax/UX_CaseStudyColesterMax. Su caso se trata sobre el estudio de la experiencia de usuario en plataformas relacionadas con restaurantes de tipo burger.
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Caso
