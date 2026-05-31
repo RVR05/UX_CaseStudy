@@ -80,22 +80,16 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 Organiza los errores técnicos de forma que el equipo sepa qué arreglar primero.
 
-| **ID**     | **Prioridad** | **Criterio WCAG**          | **Error detectado**                  | **Recomendación Técnica**     |
-| ---------- | ------------- | -------------------------- | ------------------------------------ | ----------------------------- |
-| **ACC-01** | **Crítica**   | 1.4.3 Contraste            | Texto gris sobre fondo blanco.       | Cambiar a color #333333.      |
-| **ACC-02** | **Alta**      | 1.1.1 Contenido no textual | Icono de "Cerrar" sin etiqueta.      | Añadir `aria-label="Cerrar"`. |
-| **ACC-03** | **Media**     | 2.4.1 Evitar bloques       | No hay enlace "Saltar al contenido". | Implementar un *Skip Link*.   |
 
 
-
-| **ID** | **Prioridad** | **Criterio WCAG** | **Error detectado** | **Recomendación Técnica** |
+| **ID**     | **Prioridad** | **Criterio WCAG**                        | **Error detectado** | **Recomendación Técnica** |
 | ---------- | ------------- | ---------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **ACC-01** | **Alta** | 1.3.1 Información y relaciones (Nivel A) | Iconos informativos sin etiqueta textual en tarjetas (precio, alérgenos, distancia) | Añadir `aria-label` descriptivo a cada icono, p. ej. `aria-label="Tiempo de espera: 15 minutos"` |
-| **ACC-02** | **Alta** | 2.4.1 Evitar bloques (Nivel A) | Ausencia de landmarks semánticos `<main>`, `<nav>`, `<footer>` en la SPA | Añadir roles semánticos o `role="main"` e implementar un *skip link* como primer elemento del DOM |
-| **ACC-03** | **Alta** | 2.4.4 Propósito de los enlaces (Nivel AA) | Botón de reserva redirige a la web real de Goiko sin advertencia al usuario | Añadir `aria-label="Reservar — abre en nueva pestaña"` o simular la reserva dentro del prototipo |
-| **ACC-04** | **Media** | 1.3.1 Información y relaciones (Nivel A) | Sin jerarquía de encabezados `<h1>`, `<h2>`, `<h3>` en ninguna sección | Establecer `<h1>` por vista y `<h2>` para cada sección principal |
-| **ACC-05** | **Media** | 4.1.2 Nombre, función, valor (Nivel A) | 0 elementos ARIA en toda la aplicación; componentes interactivos sin rol semántico | Añadir `role`, `aria-label` y `aria-expanded` en botones, filtros y tarjetas React |
-| **ACC-06** | **Baja** | 4.1.2 Nombre, función, valor (Nivel A) | Elemento `<noscript>` bloquea el acceso si JavaScript está desactivado | Proporcionar un mensaje de fallback útil en el `<noscript>` |
+| **ACC-01** | **Alta**      | 1.3.1 Informacion y relaciones (Nivel A) | Iconos sin etiqueta textual en tarjetas (precio, alergenos, distancia)                                                                                                    | Añadir `aria-label` a cada icono` |
+| **ACC-02** | **Alta**      | 2.4.1 Evitar bloques (Nivel A)           | Ausencia de etiquetas semanticas `<main>`, `<nav>`, `<footer>`| Añadir roles semánticos e implementar un *skip link* como primer elemento del DOM |
+| **ACC-03** | **Alta**      | 2.4.4 Proposito de los enlaces (Nivel AA) | Boton de reserva redirige a la webde Goiko sin advertencia | Añadir `aria-label="Reservar abre en nueva pestaña"` o simular la reserva dentro |
+| **ACC-04** | **Media**     | 1.3.1 Informacion y relaciones (Nivel A) | Sin jerarquia de encabezados `<h1>`, `<h2>`, `<h3>` en ninguna seccionn | Establecer `<h1>` y `<h2>` para cada sección principal |
+| **ACC-05** | **Media** | 4.1.2 Nombre, funcion (Nivel A) | 0 elementos ARIA en toda la aplicación, componentes sin rol semantico | Añadir `role`, `aria-label` y `aria-expanded` en botones y tarjetas React |
+
 
 
 
