@@ -45,7 +45,7 @@ Para realizar este estudio, la metodología se basa en una combinación de técn
 
 ### Resultado Global:
 
-La puntuación final obtenida para este proyecto en el cuestionario SUS es de 72.25. Esta refleja que pese a que la página es bastante buena y los usuarios son capaces de navegar con facilidad y completar las diversas tareas, sin embargo, quedan mejoras por hacer, priorizar la presentación de las operaciones funcionales, para que gente mayor pueda verlas antes o reducir el tamaño de la pagina para que se quede más simplificado y directo.
+La puntuación final obtenida para este proyecto en el cuestionario SUS es de 72.25 por encima del estandar de 68. Esta refleja que pese a que la página es bastante buena y los usuarios son capaces de navegar con facilidad y completar las diversas tareas, sin embargo, quedan mejoras por hacer, priorizar la presentación de las operaciones funcionales, para que gente mayor pueda verlas antes o reducir el tamaño de la pagina para que se quede más simplificado y directo.
 
 
 ## 2. Metodología y Reclutamiento
@@ -56,7 +56,7 @@ Los perfiles de los participantes escogidos son muy variados, seleccionando tipo
 
 ### Escenario de la prueba:
 
-Los participantes interactuaron con el prototipo de Goiko Finder completando dos tareas:
+Los participantes interactuaron con el prototipo completando dos tareas:
 
   - Prueba 1 — Consulta de carta y búsqueda de información sobre alérgenos: el usuario accede a la carta del restaurante y localiza la información de alérgenos. Evalúa visibilidad y accesibilidad de esta sección.
     
@@ -72,9 +72,17 @@ Las herramientas utilizadas se listan a continuación:
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
+### Comparativa A vs. B:
 
-- **Comparativa A vs. B:** Un gráfico de barras comparando la puntuación final de ambos diseños.
+| Métrica          | Caso A      | Caso B      |
+|------------------|-------------|-------------|
+| Media SUS        | 85          | 72.25       |
+| Eval Lingüística | Excelente   | Buena       |
+| Max Score        | 100.0       | 90          |
+| Min Score        | 47.5        | 35          |
+
+<img width="538" height="575" alt="Captura desde 2026-06-01 00-58-54" src="https://github.com/user-attachments/assets/e7469aa8-116a-4c85-af9b-0e38e9b1da62" />
+
 - **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
 
 Valoración numérica del SUS - 
