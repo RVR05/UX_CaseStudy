@@ -585,7 +585,7 @@ Para obtener los resultados se ha hecho uso del algoritmo de cálculo estandariz
 
 A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5) obtenidas para cada una de las 10 preguntas del cuestionario System Usability Scale (SUS), junto con la puntuación final calculada para cada participante.
 
-| Caso | Participante | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Puntuación SUS |
+| Caso | Participante | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 | Puntuación SUS |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Caso A** | P1 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
 | **Caso A** | P1 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
