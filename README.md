@@ -580,7 +580,7 @@ Tras la realización de las pruebas se han obtenido los siguientes resultados in
 
 A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5) obtenidas para cada una de las 10 preguntas del cuestionario System Usability Scale (SUS), junto con la puntuación final calculada para cada participante.
 
-| Caso | Participante | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 | Puntuación SUS |
+| Caso | Participante | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Puntuación SUS |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Caso B** | P1 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
 | **Caso B** | P1 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
@@ -605,10 +605,8 @@ A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5
 
 ### Resumen de Métricas Globales
 
-| Métrica | Resultado | Calificación | Grado de Aceptabilidad |
-| :--- | :---: | :---: | :---: |
-| **Media Caso B** | **85.00** | A / A+ | Excelente / Altamente Aceptable |
-| **Media Caso A** | **72.25** | C+ / B- | Bueno / Aceptable |
+**Media Caso B**: **85.00** 
+**Media Caso A**: **72.25** 
 
 
 ### 5.d A/B Testing
