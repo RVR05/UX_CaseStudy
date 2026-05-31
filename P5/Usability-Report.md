@@ -17,14 +17,13 @@
 Informe realizado por Equipo DIU1.LosPsicomotronic
 
 
- 
 
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 
 ### Objetivo:
 
-El objetivo de nuestro usablity report es la evaluación de la usabilidad y accesibilidad del prototipo web proporcionado por DIU3.ColesterMax. En este informe se recopilan tanto datos numéricos (como las puntuaciones del test SUS) como comportamientos visuales (mediante el Eye Tracking) para detectar fallos de diseño, problemas de navegación o barreras de accesibilidad.
+El objetivo de nuestro usability report es la evaluación de la usabilidad y accesibilidad del prototipo web proporcionado por DIU3.ColesterMax. En este informe se recopilan tanto datos numéricos (como las puntuaciones del test SUS) como comportamientos visuales (mediante el Eye Tracking) para detectar fallos de diseño, problemas de navegación o barreras de accesibilidad.
 
 ### Metodología:
 
@@ -40,9 +39,13 @@ Para realizar este estudio, la metodología se basa en una combinación de técn
 
   - El primero y más importante es que la mayoría de usuarios consideran que la página es demasiado grande, tiene demasiados elementos, o se distraen con demasiada facilidad. Lo que difilcuta la navegación y reduce la accesibilidad en personas con problemas como TDAH...
    
-  - Otro hallazgo fue que con la sobrecarga de la página 
+  - Otro hallazgo fue que con la sobrecarga de la página muchos elementos pasaban desapercibidos, zonas como el mapa, algunas ofertas... O el header, que apenas se percibió
 
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
+  - Por último un punto que se ha valorado como muy crítico por parte de los usuarios aunque el test o el heatmap no lo refleje lo suficientemente bien, es que la pagina de reservas los llevaba a otro sitio web, con un dominio y estéticas diferentes, lo que aunque no impedía la realización de la tarea, si que los confundía.
+
+### Resultado Global:
+
+La puntuación final obtenida para este proyecto en el cuestionario SUS es de 72.25. Esta refleja que pese a que la página es bastante buena y los usuarios son capaces de navegar con facilidad y completar las diversas tareas, sin embargo, quedan mejoras por hacer, priorizar la presentación de las operaciones funcionales, para que gente mayor pueda verlas antes o reducir el tamaño de la pagina para que se quede más simplificado y directo.
 
 
 ## 2. Metodología y Reclutamiento
