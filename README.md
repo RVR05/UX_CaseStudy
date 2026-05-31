@@ -643,7 +643,7 @@ Tras el analisis del cuestionario SUS, podemoos concluir que el Caso A supera al
 ![Método UX](img/eye-tracking.png)
 ----
 
-## Diseño del experimento y reclutamiento de usuarios
+#### Diseño del experimento y reclutamiento de usuarios
 
 El experimento de Eye Traking se diseñó con el objetivo de analizar el comportamiento visual de los usuarios al interactuar con la interfaz. Para ello se definieron las dos tareas explicadas anteriormente
 
@@ -652,25 +652,25 @@ El experimento de Eye Traking se diseñó con el objetivo de analizar el comport
 
 Se reclutaron una serie de participantes, asegurandonos que teniamos una variedad respresentativa de distintos perfiles.
 
-## Gazemap
+#### Gazemap
 
 La herramienta que hemos utilizado para este experimento es Gazemap, una plataforma de Eye Traking basada en webcam que permite registrar los movimentos oculares de los participantes.
 
-## Resultados del experimento
+#### Resultados del experimento
 
 A continuación se muestran los mapas de calor generados para cada participante y prueba:
 
 ---
  
-### Participante 1
+**Participante 1**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P1 Prueba 1 - img 1](./P5/P1_1.1.jpg) | ![P1 Prueba 1 - img 2](./P5/P1_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -678,15 +678,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 2
+**Participante 2**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P2 Prueba 1 - img 1](./P5/P2_1.1.jpg) | ![P2 Prueba 1 - img 2](./P5/P2_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -694,15 +694,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 3
+**Participante 3**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P3 Prueba 1 - img 1](./P5/P3_1.1.jpg) | ![P3 Prueba 1 - img 2](./P5/P3_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -710,15 +710,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 4
+**Participante 4**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P4 Prueba 1 - img 1](./P5/P4_1.1.jpg) | ![P4 Prueba 1 - img 2](./P5/P4_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -726,15 +726,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 5
+**Participante 5**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P5 Prueba 1 - img 1](./P5/P5_1.1.jpg) | ![P5 Prueba 1 - img 2](./P5/P5_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -742,15 +742,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 6
+**Participante 6**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P6 Prueba 1 - img 1](./P5/P6_1.1.jpg) | ![P6 Prueba 1 - img 2](./P5/P6_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -758,15 +758,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 7
+**Participante 7**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P7 Prueba 1 - img 1](./P5/P7_1.1.jpg) | ![P7 Prueba 1 - img 2](./P5/P7_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -774,15 +774,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 8
+**Participante 8**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P8 Prueba 1 - img 1](./P5/P8_1.1.jpg) | ![P8 Prueba 1 - img 2](./P5/P8_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -790,15 +790,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 9
+**Participante 9**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P9 Prueba 1 - img 1](./P5/P9_1.1.jpg) | ![P9 Prueba 1 - img 2](./P5/P9_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
@@ -806,15 +806,15 @@ A continuación se muestran los mapas de calor generados para cada participante 
  
 ---
  
-### Participante 10
+**Participante 10**
  
-**Prueba 1: Buscar la Carta**
+**Prueba 1: Buscar carta y alergenos**
  
 | | |
 |:---:|:---:|
 | ![P10 Prueba 1 - img 1](./P5/P10_1.1.jpg) | ![P10 Prueba 1 - img 2](./P5/P10_1.2.jpg) |
  
-**Prueba 2: Volver al Inicio**
+**Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
