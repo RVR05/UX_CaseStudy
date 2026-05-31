@@ -60,9 +60,9 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### C. Comprensible
 
-- **Hallazgo:** "Ausencia de encabezados. WAVE confirma que la página no utiliza una jerarquía de encabezados <h1>, <h2>, <h3>. El contenido está presentado con estilos visuales sin semántica, por lo que secciones como la carta, los restaurantes o las ofertas no están bien a nivel estructural.". Criterio WCAG: 1.3.1 (Nivel A)
-- **Impacto:** Los lectores de pantalla no pueden ofrecer al usuario un índice ni permitirle saltar entre bloques. Un usuario con discapacidad visual escucha el contenido como una secuencia plana sin poder distinguir dónde termina una seccion y empieza otra.
-- **Solución:** Establecer un <h1> único por vista y <h2> para cada sección principal como Restaurantes, Carta...asegurando que el orden sea siempre descendente y no se salten niveles.
+- **Hallazgo:** "Ausencia de encabezados. WAVE confirma que la página no utiliza una jerarquía de encabezados `<h1>`, `<h2>`, `<h3>`. El contenido está presentado con estilos visuales sin semántica, por lo que secciones como la carta, los restaurantes o las ofertas no están bien diferenciadas a nivel estructural." — Criterio WCAG: 1.3.1 (Nivel A)
+- **Impacto:** Los lectores de pantalla no pueden ofrecer al usuario un índice ni permitirle saltar entre bloques. Un usuario con discapacidad visual escucha el contenido como una secuencia plana sin poder distinguir dónde termina una sección y empieza otra.
+- **Solución:** Establecer un `<h1>` único por vista y `<h2>` para cada sección principal como Restaurantes, Carta u Ofertas, asegurando que el orden sea siempre descendente y no se salten niveles.
 
 
 
