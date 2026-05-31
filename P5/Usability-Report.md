@@ -121,13 +121,13 @@ Valoración numérica del SUS: 72.25
  
 | | |
 |:---:|:---:|
-| ![P4 Prueba 1 - img 1](./P5/P4_1.1.jpg) | ![P4 Prueba 1 - img 2](./P5/P4_1.2.jpg) |
+| ![P4 Prueba 1 - img 1](./P4_1.1.jpg) | ![P4 Prueba 1 - img 2](./P4_1.2.jpg) |
  
 **Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
-| ![P4 Prueba 2 - img 1](./P5/P4_2.1.jpg) | ![P4 Prueba 2 - img 2](./P5/P4_2.2.jpg) |
+| ![P4 Prueba 2 - img 1](./P4_2.1.jpg) | ![P4 Prueba 2 - img 2](./P4_2.2.jpg) |
  
  
 **Participante 5**
@@ -136,13 +136,13 @@ Valoración numérica del SUS: 72.25
  
 | | |
 |:---:|:---:|
-| ![P5 Prueba 1 - img 1](./P5/P5_1.1.jpg) | ![P5 Prueba 1 - img 2](./P5/P5_1.2.jpg) |
+| ![P5 Prueba 1 - img 1](./P5_1.1.jpg) | ![P5 Prueba 1 - img 2](./P5_1.2.jpg) |
  
 **Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
-| ![P5 Prueba 2 - img 1](./P5/P5_2.1.jpg) | ![P5 Prueba 2 - img 2](./P5/P5_2.2.jpg) |
+| ![P5 Prueba 2 - img 1](./P5_2.1.jpg) | ![P5 Prueba 2 - img 2](./P5_2.2.jpg) |
  
  
 **Participante 6**
@@ -151,13 +151,13 @@ Valoración numérica del SUS: 72.25
  
 | | |
 |:---:|:---:|
-| ![P6 Prueba 1 - img 1](./P5/P6_1.1.jpg) | ![P6 Prueba 1 - img 2](./P5/P6_1.2.jpg) |
+| ![P6 Prueba 1 - img 1](./P6_1.1.jpg) | ![P6 Prueba 1 - img 2](./P6_1.2.jpg) |
  
 **Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
-| ![P6 Prueba 2 - img 1](./P5/P6_2.1.jpg) | ![P6 Prueba 2 - img 2](./P5/P6_2.2.jpg) |
+| ![P6 Prueba 2 - img 1](./P6_2.1.jpg) | ![P6 Prueba 2 - img 2](./P6_2.2.jpg) |
  
  
 **Participante 7**
@@ -166,13 +166,13 @@ Valoración numérica del SUS: 72.25
  
 | | |
 |:---:|:---:|
-| ![P7 Prueba 1 - img 1](./P5/P7_1.1.jpg) | ![P7 Prueba 1 - img 2](./P5/P7_1.2.jpg) |
+| ![P7 Prueba 1 - img 1](./P7_1.1.jpg) | ![P7 Prueba 1 - img 2](./P7_1.2.jpg) |
  
 **Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
-| ![P7 Prueba 2 - img 1](./P5/P7_2.1.jpg) | ![P7 Prueba 2 - img 2](./P5/P7_2.2.jpg) |
+| ![P7 Prueba 2 - img 1](./P7_2.1.jpg) | ![P7 Prueba 2 - img 2](./P7_2.2.jpg) |
  
  
 **Participante 8**
@@ -181,13 +181,13 @@ Valoración numérica del SUS: 72.25
  
 | | |
 |:---:|:---:|
-| ![P8 Prueba 1 - img 1](./P5/P8_1.1.jpg) | ![P8 Prueba 1 - img 2](./P5/P8_1.2.jpg) |
+| ![P8 Prueba 1 - img 1](./P8_1.1.jpg) | ![P8 Prueba 1 - img 2](./P8_1.2.jpg) |
  
 **Prueba 2: Realizar una reserva**
  
 | | |
 |:---:|:---:|
-| ![P8 Prueba 2 - img 1](./P5/P8_2.1.jpg) | ![P8 Prueba 2 - img 2](./P5/P8_2.2.jpg) |
+| ![P8 Prueba 2 - img 1](./P8_2.1.jpg) | ![P8 Prueba 2 - img 2](./P8_2.2.jpg) |
 
 
 - **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
