@@ -52,7 +52,7 @@ La puntuación final obtenida para este proyecto en el cuestionario SUS es de 72
 
 ### Perfil de los participantes:
 
-Los perfiles de los participantes escogidos son muy variados, intentado escoger de todo tipo de personas, asegurando así diversidad en edad, género y nivel de experiencia tecnológica. Desde empleadas del hogar con edad avanzada, hasta jóvenes estudiantes.
+Los perfiles de los participantes escogidos son muy variados, seleccionando tipo de participantes, asegurando así diversidad en edad, género y nivel de experiencia tecnológica. Desde empleadas del hogar con edad avanzada, hasta jóvenes estudiantes.
 
 ### Escenario de la prueba:
 
