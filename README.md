@@ -519,12 +519,19 @@ Nos hemos quedado sin tokens hasta el 1 de junio por lo que la página de Inicio
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Caso
+| ------------- | -------- | ----------- | ----------- | ----
+| P1  | H / 21   | Estudiante  | Alta    | A 
+| P2  | H / 21   | Estudiante  | Media   | A 
+| P3  | H / 21   | Estudiante  | Baja    | B 
+| P4  | M / 26   | Estudiante  | Media   | B 
+| P5  | M / 50   | Estudiante  | Media   | A 
+| P6  | H / 26   | Estudiante  | Media   | A 
+| P7  | M / 55   | Abogado     | Baja    | B 
+| P8  | H / 28   | Estudiante  | Media   | B 
+| P9  | H / 67   | Estudiante  | Media   | A 
+| P10 | M / 41   | Estudiante  | Media   | A 
+
 
 
 ### 5.b Diseño de las pruebas 
