@@ -46,13 +46,13 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### B. Operable
 
-- **Hallazgo:** "Ausencia de regiones de página. WAVE alerta de la ausencia de <header>, <main>, <nav>, <footer>. Al ser una SPA React construida con <div> anidados sin roles ARIA, los usuarios de teclado o lector de pantalla no pueden saltar directamente a la sección que les interesa y deben recorrer la página entera elemento a elemento.". Criterio WCAG: 2.4.1 (Nivel A) y 2.4.3 (Nivel AA)
+- **Hallazgo:** "Ausencia de regiones de página. WAVE alerta de la ausencia de <header>, <main>, <nav>, <footer>. Al ser una SPA React construida con <div> anidados sin roles ARIA, los usuarios de teclado o lector de pantalla no pueden saltar directamente a la sección que les interesa y deben recorrer la página entera elemento a elemento.". Criterio WCAG: 2.4.1 Evitar Bloques (Nivel A) y 2.4.3 (Nivel AA)
 - **Impacto:** Un usuario que navega con teclado debe pulsar Tab a través de todos los elementos antes de alcanzar el contenido principal, lo que resulta frustrante en una página con muchos elementos interactivos como tarjetas y botones.
 - **Solución:** Añadir <main>, <nav> y <footer> semánticos en los contenedores e implementar un skip link como primer elemento del DOM.
 
 ---
 
-- **Hallazgo:** "Enlaces que redirigen fuera del prototipo sin advertencia. Algunos botones llevan al usuario a paginas externas, como la web oficial de Goiko, sin informarle de que abandonará la aplicación. Esto ocurre por ejemplo en el boton de reserva, llevando al usuario directamente a la web real de Goiko.". Criterio WCAG: 2.4.4 (Nivel AA)
+- **Hallazgo:** "Enlaces que redirigen fuera del prototipo sin advertencia. Algunos botones llevan al usuario a paginas externas, como la web oficial de Goiko, sin informarle de que abandonará la aplicación. Esto ocurre por ejemplo en el boton de reserva, llevando al usuario directamente a la web real de Goiko.". Criterio WCAG: 2.4.4 Propósito de los enlaces (Nivel AA)
 - **Impacto:** El usuario puede desorientarse al ser trasladado a un contexto completamente diferente sin haberlo esperado, rompiendo el flujo de navegación y generando confusión sobre donde se encuentra.
 - **Solución:** Indicar explícitamente en la etiqueta del enlace que abre una página externa o bien simular la accion de reserva dentro del propio prototipo para mantener la coherencia de la experiencia.
 
@@ -60,9 +60,9 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### C. Comprensible
 
-- **Hallazgo:** "Los mensajes de error de formulario no son claros".
-- **Impacto:** El usuario no sabe cómo corregir el campo para avanzar.
-- **Solución:** Vincular el error con el input mediante `aria-describedby`.
+- **Hallazgo:** "Ausencia de encabezados. WAVE confirma que la página no utiliza una jerarquía de encabezados <h1>, <h2>, <h3>. El contenido está presentado con estilos visuales sin semántica, por lo que secciones como la carta, los restaurantes o las ofertas no están bien a nivel estructural.". Criterio WCAG: 1.3.1 (Nivel A)
+- **Impacto:** Los lectores de pantalla no pueden ofrecer al usuario un índice ni permitirle saltar entre bloques. Un usuario con discapacidad visual escucha el contenido como una secuencia plana sin poder distinguir dónde termina una seccion y empieza otra.
+- **Solución:** Establecer un <h1> único por vista y <h2> para cada sección principal como Restaurantes, Carta...asegurando que el orden sea siempre descendente y no se salten niveles.
 
 
 
