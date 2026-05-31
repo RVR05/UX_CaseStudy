@@ -643,13 +643,184 @@ Tras el analisis del cuestionario SUS, podemoos concluir que el Caso A supera al
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+## Diseño del experimento y reclutamiento de usuarios
 
+El experimento de Eye Traking se diseñó con el objetivo de analizar el comportamiento visual de los usuarios al interactuar con la interfaz. Para ello se definieron las dos tareas explicadas anteriormente
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+- **Prueba 1:** Consulta de carta y busqueda de informacion sobre alérgenos
+- **Prueba 2:** Realizar una reserva
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Se reclutaron una serie de participantes, asegurandonos que teniamos una variedad respresentativa de distintos perfiles.
+
+## Gazemap
+
+La herramienta que hemos utilizado para este experimento es Gazemap, una plataforma de Eye Traking basada en webcam que permite registrar los movimentos oculares de los participantes.
+
+## Resultados del experimento
+
+A continuación se muestran los mapas de calor generados para cada participante y prueba:
+
+---
+ 
+### Participante 1
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P1 Prueba 1 - img 1](../P5/P1_1.1.png) | ![P1 Prueba 1 - img 2](../P5/P1_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P1 Prueba 2 - img 1](../P5/P1_2.1.png) | ![P1 Prueba 2 - img 2](../P5/P1_2.2.png) |
+ 
+---
+ 
+### Participante 2
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P2 Prueba 1 - img 1](../P5/P2_1.1.png) | ![P2 Prueba 1 - img 2](../P5/P2_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P2 Prueba 2 - img 1](../P5/P2_2.1.png) | ![P2 Prueba 2 - img 2](../P5/P2_2.2.png) |
+ 
+---
+ 
+### Participante 3
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P3 Prueba 1 - img 1](../P5/P3_1.1.png) | ![P3 Prueba 1 - img 2](../P5/P3_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P3 Prueba 2 - img 1](../P5/P3_2.1.png) | ![P3 Prueba 2 - img 2](../P5/P3_2.2.png) |
+ 
+---
+ 
+### Participante 4
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P4 Prueba 1 - img 1](../P5/P4_1.1.png) | ![P4 Prueba 1 - img 2](../P5/P4_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P4 Prueba 2 - img 1](../P5/P4_2.1.png) | ![P4 Prueba 2 - img 2](../P5/P4_2.2.png) |
+ 
+---
+ 
+### Participante 5
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P5 Prueba 1 - img 1](../P5/P5_1.1.png) | ![P5 Prueba 1 - img 2](../P5/P5_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P5 Prueba 2 - img 1](../P5/P5_2.1.png) | ![P5 Prueba 2 - img 2](../P5/P5_2.2.png) |
+ 
+---
+ 
+### Participante 6
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P6 Prueba 1 - img 1](../P5/P6_1.1.png) | ![P6 Prueba 1 - img 2](../P5/P6_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P6 Prueba 2 - img 1](../P5/P6_2.1.png) | ![P6 Prueba 2 - img 2](../P5/P6_2.2.png) |
+ 
+---
+ 
+### Participante 7
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P7 Prueba 1 - img 1](../P5/P7_1.1.png) | ![P7 Prueba 1 - img 2](../P5/P7_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P7 Prueba 2 - img 1](../P5/P7_2.1.png) | ![P7 Prueba 2 - img 2](../P5/P7_2.2.png) |
+ 
+---
+ 
+### Participante 8
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P8 Prueba 1 - img 1](../P5/P8_1.1.png) | ![P8 Prueba 1 - img 2](../P5/P8_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P8 Prueba 2 - img 1](../P5/P8_2.1.png) | ![P8 Prueba 2 - img 2](../P5/P8_2.2.png) |
+ 
+---
+ 
+### Participante 9
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P9 Prueba 1 - img 1](../P5/P9_1.1.png) | ![P9 Prueba 1 - img 2](../P5/P9_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P9 Prueba 2 - img 1](../P5/P9_2.1.png) | ![P9 Prueba 2 - img 2](../P5/P9_2.2.png) |
+ 
+---
+ 
+### Participante 10
+ 
+**Prueba 1: Buscar la Carta**
+ 
+| | |
+|:---:|:---:|
+| ![P10 Prueba 1 - img 1](../P5/P10_1.1.png) | ![P10 Prueba 1 - img 2](../P5/P10_1.2.png) |
+ 
+**Prueba 2: Volver al Inicio**
+ 
+| | |
+|:---:|:---:|
+| ![P10 Prueba 2 - img 1](../P5/P10_2.1.png) | ![P10 Prueba 2 - img 2](../P5/P10_2.2.png) |
+ 
+---
 
 
 ### 5.f Usability Report de B
