@@ -14,11 +14,11 @@ Antes de entrar en detalles, define el alcance.
 
 ## 2. Puntuaciones Globales (Métricas Automáticas)
 
-- **Lighthouse Accessibility Score:** 77/100
+**Lighthouse Accessibility Score:** 77/100
 
 Lighthouse ha puntuado con un 77 sobre 100 para el prototipo de Goiko Finder en la categoria de Accesibilidad, colocando al prototipo Goiko Finder en la zona amarilla, lo que indica que cumple con una parte significativa de los estandares para que las personas con discapacidades visuales, motoras o cognitivas puedan navegar sin barreras. Esto se traduce en que el sitio cuenta con una estructura, un uso correcto de componentes. Sin embargo hay cosas que impiden llegar a la zona verde, como la ausencia de textos alternativos, lo que impide a los usuarios con discapacidad visual del contenido.
  
-- **WAVE Summary:** Número de errores críticos, alertas y errores de contraste.
+**WAVE Summary:** Número de errores críticos, alertas y errores de contraste.
 
 <img width="365" height="810" alt="image" src="https://github.com/user-attachments/assets/3c9e9d24-48a4-479d-8bfa-30e5d32dc13f" />
 
