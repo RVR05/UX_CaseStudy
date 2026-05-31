@@ -660,7 +660,6 @@ La herramienta que hemos utilizado para este experimento es Gazemap, una platafo
 
 A continuación se muestran los mapas de calor generados para cada participante y prueba:
 
----
  
 **Participante 1**
  
@@ -676,7 +675,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P1 Prueba 2 - img 1](./P5/P1_2.1.jpg) | ![P1 Prueba 2 - img 2](./P5/P1_2.2.jpg) |
  
----
  
 **Participante 2**
  
@@ -692,7 +690,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P2 Prueba 2 - img 1](./P5/P2_2.1.jpg) | ![P2 Prueba 2 - img 2](./P5/P2_2.2.jpg) |
  
----
  
 **Participante 3**
  
@@ -708,7 +705,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P3 Prueba 2 - img 1](./P5/P3_2.1.jpg) | ![P3 Prueba 2 - img 2](./P5/P3_2.2.jpg) |
  
----
  
 **Participante 4**
  
@@ -724,7 +720,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P4 Prueba 2 - img 1](./P5/P4_2.1.jpg) | ![P4 Prueba 2 - img 2](./P5/P4_2.2.jpg) |
  
----
  
 **Participante 5**
  
@@ -740,7 +735,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P5 Prueba 2 - img 1](./P5/P5_2.1.jpg) | ![P5 Prueba 2 - img 2](./P5/P5_2.2.jpg) |
  
----
  
 **Participante 6**
  
@@ -756,7 +750,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P6 Prueba 2 - img 1](./P5/P6_2.1.jpg) | ![P6 Prueba 2 - img 2](./P5/P6_2.2.jpg) |
  
----
  
 **Participante 7**
  
@@ -772,7 +765,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P7 Prueba 2 - img 1](./P5/P7_2.1.jpg) | ![P7 Prueba 2 - img 2](./P5/P7_2.2.jpg) |
  
----
  
 **Participante 8**
  
@@ -788,7 +780,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P8 Prueba 2 - img 1](./P5/P8_2.1.jpg) | ![P8 Prueba 2 - img 2](./P5/P8_2.2.jpg) |
  
----
  
 **Participante 9**
  
@@ -804,7 +795,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P9 Prueba 2 - img 1](./P5/P9_2.1.jpg) | ![P9 Prueba 2 - img 2](./P5/P9_2.2.jpg) |
  
----
  
 **Participante 10**
  
@@ -820,7 +810,6 @@ A continuación se muestran los mapas de calor generados para cada participante 
 |:---:|:---:|
 | ![P10 Prueba 2 - img 1](./P5/P10_2.1.jpg) | ![P10 Prueba 2 - img 2](./P5/P10_2.2.jpg) |
  
----
 
 ### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
