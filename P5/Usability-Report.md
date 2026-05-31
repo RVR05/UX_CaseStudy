@@ -106,7 +106,7 @@ Se percibe claro un problema con el participante 7 y la soltura de la web. La Ta
 
 Primero hay que entender el promedio, si es una pregunta impar es una pregunta positiva, luego a mayor promedio mejor. Si es una pregunta par es justo al contrario.
 
-En general la pregunta que ha obtenido de media la peor puntuación negativa es la pregunta 3 (promedia un 3.4 siendo impar), esta evalua si "Pensé que era fácil utilizar este website", lo que indica que la página no es normalmente muy intuititiva, algo cuesta siempre, sin importar cuanta pericia tengas. La siguiente peor evaluada es la pregunta 8 (promedia un 2.5 siendo par), que evalua si "Encontré el website muy grande al recorrerlo". Puede parecer engañoso porque ningún participante puso una nota fatídica a esta pregunta, pero si nos fijamos la media sigue siendo muy mala con respecto a las demás, esto es porque por lo general, la gente no tiene un problema muy grande con que la pagina sea de largo recorrido, o mucho scrolleo, pero si que resulta molesto de forma generalizada. La pregunta 7 tampoco tiene buena valoración (promedia un 3.7) y se refiere a si se imagina que la mayoría de las personas aprenderían muy rápidamente a utilizar el website, ergo los participantes creen que no les resultaría lo más fácil del mundo, pero tampoco demasiado difícil
+En general la pregunta que ha obtenido de media la peor puntuación negativa es la pregunta 3 (promedia un 3.4 siendo impar), esta evalua si "Pensé que era fácil utilizar este website", lo que indica que la página no es normalmente muy intuititiva, algo cuesta siempre, sin importar cuanta pericia tengas. La siguiente peor evaluada es la pregunta 8 (promedia un 2.5 siendo par), que evalua si "Encontré el website muy grande al recorrerlo". Puede parecer engañoso porque ningún participante puso una nota fatídica a esta pregunta, pero si nos fijamos la media sigue siendo muy mala con respecto a las demás, esto es porque por lo general, la gente no tiene un problema muy grande con que la pagina sea de largo recorrido, o mucho scrolleo, pero si que resulta molesto de forma generalizada. La pregunta 7 tampoco tiene buena valoración (promedia un 3.7) y se refiere a si se imagina que la mayoría de las personas aprenderían muy rápidamente a utilizar el website, ergo los participantes creen que no les resultaría lo más fácil del mundo, pero tampoco demasiado difícil. Además hay que remarcar que la tarea 2, reservar, obtiene puntuaciones inferiores a la tarea 1 en todos los participantes, contrariando lo común que es que tras la tarea 1, lo más sencillo sea la tarea 2.
 
 Por lo demás, hay otras preguntas que tampoco tienen buena valoración pero la desviación con respecto a la media es menos alarmante. En general la página se evalua correctamente pero debería mejorar el tamaño así como que tan intuitiva se presenta.
 
@@ -115,9 +115,81 @@ Valoración numérica del SUS: 72.25
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
+**Participante 4**
+ 
+**Prueba 1: Buscar carta y alergenos**
+ 
+| | |
+|:---:|:---:|
+| ![P4 Prueba 1 - img 1](./P5/P4_1.1.jpg) | ![P4 Prueba 1 - img 2](./P5/P4_1.2.jpg) |
+ 
+**Prueba 2: Realizar una reserva**
+ 
+| | |
+|:---:|:---:|
+| ![P4 Prueba 2 - img 1](./P5/P4_2.1.jpg) | ![P4 Prueba 2 - img 2](./P5/P4_2.2.jpg) |
+ 
+ 
+**Participante 5**
+ 
+**Prueba 1: Buscar carta y alergenos**
+ 
+| | |
+|:---:|:---:|
+| ![P5 Prueba 1 - img 1](./P5/P5_1.1.jpg) | ![P5 Prueba 1 - img 2](./P5/P5_1.2.jpg) |
+ 
+**Prueba 2: Realizar una reserva**
+ 
+| | |
+|:---:|:---:|
+| ![P5 Prueba 2 - img 1](./P5/P5_2.1.jpg) | ![P5 Prueba 2 - img 2](./P5/P5_2.2.jpg) |
+ 
+ 
+**Participante 6**
+ 
+**Prueba 1: Buscar carta y alergenos**
+ 
+| | |
+|:---:|:---:|
+| ![P6 Prueba 1 - img 1](./P5/P6_1.1.jpg) | ![P6 Prueba 1 - img 2](./P5/P6_1.2.jpg) |
+ 
+**Prueba 2: Realizar una reserva**
+ 
+| | |
+|:---:|:---:|
+| ![P6 Prueba 2 - img 1](./P5/P6_2.1.jpg) | ![P6 Prueba 2 - img 2](./P5/P6_2.2.jpg) |
+ 
+ 
+**Participante 7**
+ 
+**Prueba 1: Buscar carta y alergenos**
+ 
+| | |
+|:---:|:---:|
+| ![P7 Prueba 1 - img 1](./P5/P7_1.1.jpg) | ![P7 Prueba 1 - img 2](./P5/P7_1.2.jpg) |
+ 
+**Prueba 2: Realizar una reserva**
+ 
+| | |
+|:---:|:---:|
+| ![P7 Prueba 2 - img 1](./P5/P7_2.1.jpg) | ![P7 Prueba 2 - img 2](./P5/P7_2.2.jpg) |
+ 
+ 
+**Participante 8**
+ 
+**Prueba 1: Buscar carta y alergenos**
+ 
+| | |
+|:---:|:---:|
+| ![P8 Prueba 1 - img 1](./P5/P8_1.1.jpg) | ![P8 Prueba 1 - img 2](./P5/P8_1.2.jpg) |
+ 
+**Prueba 2: Realizar una reserva**
+ 
+| | |
+|:---:|:---:|
+| ![P8 Prueba 2 - img 1](./P5/P8_2.1.jpg) | ![P8 Prueba 2 - img 2](./P5/P8_2.2.jpg) |
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
+
 - **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
 - **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
 
