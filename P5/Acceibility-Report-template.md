@@ -38,9 +38,9 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### A. Perceptible
 
-- **Hallazgo:** "Falta de texto alternativo en imágenes decorativas".
-- **Impacto:** Los usuarios con discapacidad visual no reciben contexto de la imagen.
-- **Solución:** Añadir atributo `alt=""` o una descripción funcional.
+- **Hallazgo:** "Ausencia de descripciones en tarjetas visuales. El prototipo utiliza tarjetas con imagenes de hamburguesas y restauranes. Sin embargo la informacion clae (precio, alergenos, tiempo de espera), se presenta unicamente con iconos y etiquetas pequeñas, sin que exista una alternativa. Asi mismo la págna carece de estructura de encabezados, confirmado por WAVE con la alerta No heading structure". Criterio WCAG:1.3.1 (Nivel A) y 1.3.3 (Nivel AA)
+- **Impacto:** Un usuario con discapacidad visual recibe la información de cada tarjeta sin contexto jerárquico sin saber si el dato que escucha corresponde a un precio, una distancia o un tiempo de espera,
+- **Solución:** Complementar cada icono informativo con un aria-label que describa explícitamente su significado por ejemplo aria-label="Tiempo de espera: 15 minutos"
 
 
 
