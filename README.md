@@ -548,7 +548,6 @@ Prueba 2: Realizar una reserva
 En esta tarea el usuario debera acceder al apartado de reservas y completar el formulario correspondiente. Aqui valoramos la faclidad para encontrar la seccion de reservas, comprobar la facilidad para realizarla y ver si el proceso de reserva resulta rapido
 
 
-
 ### 5.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
@@ -572,39 +571,55 @@ Para la evalación SUS, vamos a utilizar la siguiente plantilla, donde 1 implica
 
 ---
 
+Como nuestros usuarios deben realizar dos tareas en la web, tras cada una de estas rellenan un cuestionario SUS de forma que en total saldran 20 cuestionarios.
+
 Tras la realización de las pruebas se han obtenido los siguientes resultados individuales:
 
 ## Resultados Individuales del Cuestionario SUS
+
+Para obtener los resultados se ha hecho uso del algoritmo de cálculo estandarizado de la escala SUS visto en clase y contemplado en diversas guias:
+
+  - Suma todos los impares y luego a la suma restale 1 por cada pregunta impar
+  - Multiplica 5 por cada pregunta par y a ello restale la sumatoria de los pares
+  - Para finalizar suma ambos resultados y multiplica por 2.5, con ello obtienes un valor sobre 100, que no es un porcentaje pero indica bastante bien el estado/usabilidad de la pagina
 
 A continuación se detallan las respuestas numéricas limpias (escala del 1 al 5) obtenidas para cada una de las 10 preguntas del cuestionario System Usability Scale (SUS), junto con la puntuación final calculada para cada participante.
 
 | Caso | Participante | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Puntuación SUS |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Caso B** | P1 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
-| **Caso B** | P1 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
-| **Caso B** | P2 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
-| **Caso B** | P2 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
-| **Caso B** | P3 - 1 | 5 | 1 | 5 | 2 | 5 | 1 | 5 | 1 | 5 | 1 | **97.5** |
-| **Caso B** | P3 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
-| **Caso B** | P9 - 1 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | 3 | 2 | 3 | **47.5** |
-| **Caso B** | P9 - 2 | 4 | 2 | 3 | 3 | 3 | 2 | 5 | 3 | 2 | 3 | **60.0** |
-| **Caso B** | P10 - 1 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 1 | 4 | 3 | **75.0** |
-| **Caso B** | P10 - 2 | 4 | 2 | 4 | 1 | 3 | 4 | 4 | 1 | 3 | 2 | **70.0** |
-| **Caso A** | P4 - 1 | 4 | 2 | 2 | 1 | 4 | 1 | 5 | 3 | 5 | 1 | **80.0** |
-| **Caso A** | P4 - 2 | 5 | 1 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 1 | **90.0** |
-| **Caso A** | P5 - 1 | 3 | 3 | 4 | 2 | 4 | 1 | 4 | 2 | 4 | 2 | **72.5** |
-| **Caso A** | P5 - 2 | 2 | 2 | 4 | 2 | 5 | 1 | 4 | 3 | 4 | 2 | **72.5** |
-| **Caso A** | P6 - 1 | 5 | 3 | 3 | 1 | 5 | 2 | 5 | 3 | 3 | 2 | **75.0** |
-| **Caso A** | P6 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 2 | 2 | 5 | 1 | **90.0** |
-| **Caso A** | P7 - 1 | 2 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | **42.5** |
-| **Caso A** | P7 - 2 | 3 | 4 | 2 | 4 | 2 | 3 | 2 | 3 | 3 | 4 | **35.0** |
-| **Caso A** | P8 - 1 | 5 | 2 | 4 | 1 | 4 | 1 | 4 | 2 | 4 | 1 | **85.0** |
-| **Caso A** | P8 - 2 | 5 | 2 | 3 | 1 | 3 | 1 | 4 | 2 | 4 | 1 | **80.0** |
+| **Caso A** | P1 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso A** | P1 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso A** | P2 - 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso A** | P2 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso A** | P3 - 1 | 5 | 1 | 5 | 2 | 5 | 1 | 5 | 1 | 5 | 1 | **97.5** |
+| **Caso A** | P3 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | 5 | 1 | **100.0** |
+| **Caso A** | P9 - 1 | 3 | 3 | 3 | 3 | 2 | 3 | 4 | 3 | 2 | 3 | **47.5** |
+| **Caso A** | P9 - 2 | 4 | 2 | 3 | 3 | 3 | 2 | 5 | 3 | 2 | 3 | **60.0** |
+| **Caso A** | P10 - 1 | 4 | 2 | 4 | 2 | 4 | 2 | 4 | 1 | 4 | 3 | **75.0** |
+| **Caso A** | P10 - 2 | 4 | 2 | 4 | 1 | 3 | 4 | 4 | 1 | 3 | 2 | **70.0** |
+| **Caso B** | P4 - 1 | 4 | 2 | 2 | 1 | 4 | 1 | 5 | 3 | 5 | 1 | **80.0** |
+| **Caso B** | P4 - 2 | 5 | 1 | 5 | 2 | 5 | 1 | 4 | 2 | 4 | 1 | **90.0** |
+| **Caso B** | P5 - 1 | 3 | 3 | 4 | 2 | 4 | 1 | 4 | 2 | 4 | 2 | **72.5** |
+| **Caso B** | P5 - 2 | 2 | 2 | 4 | 2 | 5 | 1 | 4 | 3 | 4 | 2 | **72.5** |
+| **Caso B** | P6 - 1 | 5 | 3 | 3 | 1 | 5 | 2 | 5 | 3 | 3 | 2 | **75.0** |
+| **Caso B** | P6 - 2 | 5 | 1 | 5 | 1 | 5 | 1 | 2 | 2 | 5 | 1 | **90.0** |
+| **Caso B** | P7 - 1 | 2 | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2 | 3 | **42.5** |
+| **Caso B** | P7 - 2 | 3 | 4 | 2 | 4 | 2 | 3 | 2 | 3 | 3 | 4 | **35.0** |
+| **Caso B** | P8 - 1 | 5 | 2 | 4 | 1 | 4 | 1 | 4 | 2 | 4 | 1 | **85.0** |
+| **Caso B** | P8 - 2 | 5 | 2 | 3 | 1 | 3 | 1 | 4 | 2 | 4 | 1 | **80.0** |
 
-### Resumen de Métricas Globales
 
-**Media Caso B**: **85.00** 
-**Media Caso A**: **72.25** 
+Media Caso A: 85.00 
+
+Media Caso B: 72.25
+
+Obtenidos los resultados, se puede ver claramente que para estas tareas nuestra página (el caso A) ha resultado ser superior, además se pueden extraer las siguientes conclusiones:
+
+1. **Influencia del perfil y la experiencia del usuario:** En el Caso A se observa una brecha muy marcada según la habilidad digital de los participantes. Los bloques de usuarios P1, P2 y P3 (perfiles más jóvenes o con mayores habilidades informáticas, correspondientes al intratesting) valoraron la experiencia con puntuaciones perfectas o casi perfectas (100 y 97.5). Sin embargo, las notas sufren una caída notable en los usuarios P9 y P10, con menor pericia informatica y mayores edades.
+
+2. **Comportamiento general y puntos críticos:** Por su parte, el Caso B se muestran unas notas más estables, el problema principal resulto en el usuario P7, cuyas valoraciones descendieron de forma drástica hasta un 42.5 y 35.0. Probablemente el participante 7 aunque no demasiado mayor, si que presentaba una habilidad tic baja, lo que resultó en algún bloqueo puntual, que clarifica el mapa de calor correspondiente.
+
+Como conclusión, **el Caso A ofrece una experiencia global mejor y más intuitiva**.
 
 
 ### 5.d A/B Testing
