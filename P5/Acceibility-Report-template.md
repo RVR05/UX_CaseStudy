@@ -68,30 +68,9 @@ Para que el informe sea profesional, agrupa los fallos según los 4 principios d
 
 ### D. Robusto
 
-- **Hallazgo:** "IDs duplicados en el código HTML".
-- **Impacto:** Los lectores de pantalla pueden saltarse contenido o confundir elementos.
-- **Solución:** Validar el HTML y asegurar identificadores únicos.
-
-
-
-El informe deberá organizar los resultados en esta 4 categorias: 
-
-| **Categoría**    | **Qué analizar (Ejemplos)**                                  |
-| ---------------- | ------------------------------------------------------------ |
-| **Perceptible**  | Contraste de colores, texto alternativo en imágenes (`alt`), subtítulos. |
-| **Operable**     | Navegación por teclado, tiempo suficiente para leer, evitar destellos. |
-| **Comprensible** | Idioma de la página definido, formularios claros, errores fáciles de corregir. |
-| **Robusto**      | Código limpio (HTML válido) para que los lectores de pantalla funcionen. |
-
-Un ejemplo de resultado sería: 
-
-* **Perceptible:**  
-  * Error detectado: **Falta de contraste en el botón de reservar**.
-  * **Criterio WCAG incumplido:** "Criterio 1.4.3 - Contraste mínimo".
-  * **Impacto:** "Los usuarios con visión baja no pueden identificar la acción principal".
-  * **Recomendación de mejora:** "Cambiar el color del texto de gris claro a negro (#000000)".
-
-El informe debería dar una **valoracion general de accesibilidad** e incluir al menos **2-3 resultados identificados y clasificados adecuadamente**. 
+- **Hallazgo:** "Elemento <noscript> y ausencia de roles ARIA, WAVE reporta 0 elementos ARIA. Al estar generada con Figma Make, los componentes interactivos como botones, filtros y tarjetas no exponen su tipo ni estado" Criterio WCAG: 4.1.2 (Nivel A)
+- **Impacto:** Los lectores de pantalla no pueden identificar el rol de los elementos interactivos, haciendo la interfaz opaca para usuarios con discapacidad visual. Un botón de filtro o una tarjeta de restaurante son indistinguibles entre sí, lo que impide una navegacion autónoma 
+- **Solución:** Añadir role, aria-label donde corresponda en los componentes React, en las tarjetas interactivas, y proporcionar un mensaje de fallback útil en el <noscript>.
 
 
 
@@ -109,7 +88,14 @@ Organiza los errores técnicos de forma que el equipo sepa qué arreglar primero
 
 
 
-
+| **ID** | **Prioridad** | **Criterio WCAG** | **Error detectado** | **Recomendación Técnica** |
+| ---------- | ------------- | ---------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **ACC-01** | **Alta** | 1.3.1 Información y relaciones (Nivel A) | Iconos informativos sin etiqueta textual en tarjetas (precio, alérgenos, distancia) | Añadir `aria-label` descriptivo a cada icono, p. ej. `aria-label="Tiempo de espera: 15 minutos"` |
+| **ACC-02** | **Alta** | 2.4.1 Evitar bloques (Nivel A) | Ausencia de landmarks semánticos `<main>`, `<nav>`, `<footer>` en la SPA | Añadir roles semánticos o `role="main"` e implementar un *skip link* como primer elemento del DOM |
+| **ACC-03** | **Alta** | 2.4.4 Propósito de los enlaces (Nivel AA) | Botón de reserva redirige a la web real de Goiko sin advertencia al usuario | Añadir `aria-label="Reservar — abre en nueva pestaña"` o simular la reserva dentro del prototipo |
+| **ACC-04** | **Media** | 1.3.1 Información y relaciones (Nivel A) | Sin jerarquía de encabezados `<h1>`, `<h2>`, `<h3>` en ninguna sección | Establecer `<h1>` por vista y `<h2>` para cada sección principal |
+| **ACC-05** | **Media** | 4.1.2 Nombre, función, valor (Nivel A) | 0 elementos ARIA en toda la aplicación; componentes interactivos sin rol semántico | Añadir `role`, `aria-label` y `aria-expanded` en botones, filtros y tarjetas React |
+| **ACC-06** | **Baja** | 4.1.2 Nombre, función, valor (Nivel A) | Elemento `<noscript>` bloquea el acceso si JavaScript está desactivado | Proporcionar un mensaje de fallback útil en el `<noscript>` |
 
 
 
