@@ -537,8 +537,6 @@ Nuestro caso B pertenece al grupo DIU3.ColesterMax, cuyo repositorio tiene el si
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
 Para la evaluacion de la propuesta realizaremos dos pruebas de usabilidad, en ellas los participantes deberan completar una serie de tareas. El obejtivo es ver como interactuan con la interfáz.
 
 Prueba 1: Consulta de carta y busqueda de informacion sobre alérgenos
