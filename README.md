@@ -522,15 +522,15 @@ Nos hemos quedado sin tokens hasta el 1 de junio por lo que la página de Inicio
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Caso
 | ------------- | -------- | ----------- | ----------- | ----
 | P1  | H / 21   | Estudiante  | Alta    | A 
-| P2  | H / 21   | Estudiante  | Media   | A 
-| P3  | H / 21   | Estudiante  | Baja    | B 
-| P4  | M / 26   | Estudiante  | Media   | B 
-| P5  | M / 50   | Estudiante  | Media   | A 
-| P6  | H / 26   | Estudiante  | Media   | A 
-| P7  | M / 55   | Abogado     | Baja    | B 
-| P8  | H / 28   | Estudiante  | Media   | B 
-| P9  | H / 67   | Estudiante  | Media   | A 
-| P10 | M / 41   | Estudiante  | Media   | A 
+| P2  | H / 21   | Estudiante  | Alta    | A 
+| P3  | H / 21   | Estudiante  | Alta    | A
+| P4  | M / 26   | Activos  | Media/Alta   | B 
+| P5  | M / 50   | Estudiante  | Media   | B 
+| P6  | H / 26   | Activos  | Media/Alta   | B 
+| P7  | M / 55   | Activos     | Baja    | B 
+| P8  | H / 28   | Activos  | Alta   | B 
+| P9  | H / 67   | Jubilado  | Baja   | A 
+| P10 | M / 41   | Activos  | Media   | A 
 
 
 
