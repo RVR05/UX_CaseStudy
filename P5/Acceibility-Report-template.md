@@ -6,26 +6,28 @@
 
 Antes de entrar en detalles, define el alcance.
 
-- **Nombre del proyecto:** (Diseño A o Diseño B).
-- **Normativa de referencia:** WCAG 2.1 o 2.2 (Nivel AA).
-- **Herramientas utilizadas:** (Ej: Lighthouse, WAVE, axe DevTools).
-- **Fecha de la auditoría:** El estado de la web cambia, es vital poner fecha.
-
-
-
-NOTA: El marco normativo para la web, el estándar es el **WCAG (Web Content Accessibility Guidelines)**.
-
-- **Nivel de conformidad:** Generalmente se busca el **AA** (el estándar legal para sitios públicos y empresas), Versión  **WCAG 2.1 o 2.2**. Referencia: norma **UNE-EN 301549** 
-
+- **Nombre del proyecto:** Diseño B DIU3.ColesterMax.
+- **Normativa de referencia:** WCAG 2.1, Nivel AA.
+- **Herramientas utilizadas:** Lighthouse, WAVE.
+- **Fecha de la auditoría:** 31 de Mayo del 2026.
 
 
 ## 2. Puntuaciones Globales (Métricas Automáticas)
 
-Presenta una visión general rápida. Usa los "scores" que te dan las herramientas.
+- **Lighthouse Accessibility Score:** 77/100
 
-- **Lighthouse Accessibility Score:** (Ej: 85/100).
+Lighthouse ha puntuado con un 77 sobre 100 para el prototipo de Goiko Finder en la categoria de Accesibilidad, colocando al prototipo Goiko Finder en la zona amarilla, lo que indica que cumple con una parte significativa de los estandares para que las personas con discapacidades visuales, motoras o cognitivas puedan navegar sin barreras. Esto se traduce en que el sitio cuenta con una estructura, un uso correcto de componentes. Sin embargo hay cosas que impiden llegar a la zona verde, como la ausencia de textos alternativos, lo que impide a los usuarios con discapacidad visual del contenido.
+ 
 - **WAVE Summary:** Número de errores críticos, alertas y errores de contraste.
 
+<img width="365" height="810" alt="image" src="https://github.com/user-attachments/assets/3c9e9d24-48a4-479d-8bfa-30e5d32dc13f" />
+
+Numero de errores criticos: 0
+Alertas: 4
+Errores de contraste: 0
+AIM Score 9.9 / 10
+
+Tras el analisis en WAVE, Goiko Finder obtiene un 9,9 sobre 10, lo que indica una gran excelencia. La herramienta no ha detectado nignun error critnico ni errores de contraste, lo que indica que se hace un buen diseño de imagenes y elementos visuales. No obstante si ha detectado 4 alertas por la ausencia de encabezados, la falta de regiones de paginas definidas y la presencia de un elemento <noscript>. 
 
 
 ## 3. Análisis por Principios (POUR)
