@@ -97,9 +97,17 @@ Organiza los errores técnicos de forma que el equipo sepa qué arreglar primero
 
 Resume el estado actual:
 
-- **¿Es el sitio accesible?** (Ej: "El sitio cumple parcialmente con el nivel AA, pero presenta barreras críticas en el proceso de compra").
-- **Próximos pasos:** Lista de 3 acciones inmediatas para mejorar la puntuación.
+- **¿Es el sitio accesible?**
 
+El protitpo Goiko Finder cumple de forma parcial con el nivel AA de WCAG 2.1. Los resultados de las herramientas automatizadas son positivos, 77/100 en Lighthouse y 9.9/10 en AIM Score en WAVE sin errores criticos. A pesar de que esto nos de indicios de una web solida, la ausencia de etiquetas semánticas, la falta de jerarquias, los encales que redirigen sin ningun tipo de advertencia a páginas externa y la ausencia total de roles ARIA en los componentes, suponen barreras para usuarios que dependen de tecnologias asistidas.
+
+- **Próximos pasos:**
+
+1. Incorporar aria-label en todos los iconos informativos de las diversas tarjetas (precio, alergenos, tiempo...) y establecer a traves de `<h1>` y `<h2>` una jerarquia por secciones. Con estas dos mejoras estariamos abordand los ACC-01 y ACC-04
+
+2. Añadir etiquetas semántcias a los contenedores del layaut (`<nav>` y `<footer>`) e implementar un *skip link* para permitir a los usuarios que naveguen solo por teclado ir directamente al contenido principal sin teenr que pasar por todos los elementos previos. Aqui resolvemos el ACC-02.
+
+3. Corregir la presencia de botones con enlaces a páginas externa, como por ejemplo el de reaizar una reserva, añadiendo o una explicación de que el usuario va a abanonar el prototipo para acceder a otra página o directamente no tener este tipo de enlaces y hacer esas tareas dentro del prototipo.
 
 
 
