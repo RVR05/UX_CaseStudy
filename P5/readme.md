@@ -312,7 +312,7 @@ A continuación se muestran los mapas de calor generados para cada participante 
 ![Método UX](img/usability-report.png) 
 -----
 
-[Usability Report](./P5/Usability-Report.md)
+[Usability Report](./Usability-Report.md)
 
 Paa finalizar, hemos elaborao un Usability Report especifico sobre el caso B para el grupo DIU3.ColesterMax.
 
