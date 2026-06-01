@@ -208,9 +208,8 @@ Valoración numérica del SUS: 72.25
 
 ## 5. Auditoría de Accesibilidad
 
-[Acceibility-Report](./P5/Acceibility-Report-template.md)
+[Acceibility-Report](https://github.com/RVR05/UX_CaseStudy/blob/master/P5/Acceibility-Report-template.md)
 
-https://github.com/RVR05/UX_CaseStudy/blob/master/P5/Acceibility-Report-template.md
 
 
 
