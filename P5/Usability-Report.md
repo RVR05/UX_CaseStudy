@@ -210,6 +210,10 @@ Valoración numérica del SUS: 72.25
 
 [Acceibility-Report](./P5/Acceibility-Report-template.md)
 
+https://github.com/RVR05/UX_CaseStudy/blob/master/P5/Acceibility-Report-template.md
+
+
+
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
 No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
