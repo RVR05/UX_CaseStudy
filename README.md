@@ -817,9 +817,9 @@ A continuación se muestran los mapas de calor generados para cada participante 
 
 [Usability Report](./P5/Usability-Report.md)
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Paa finalizar, hemos elaborao un Usability Report especifico sobre el caso B para el grupo DIU3.ColesterMax.
 
-
+En el se han sintetizado todos los resultados obtenidos a lo largo de todas las fases de evaluacion, mediante cuestionarios SUS, pruebas A/B, eye Tracking y los fallos de accesibilidad identificados con Lighthouse y WAVE. A partir de estos datos se plantean una serie de mejoras enfocadas en la estructura semantica, la claridad de la información y la reducción de fricciones en la navegación.
 
 <br>
 
