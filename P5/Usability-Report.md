@@ -208,10 +208,7 @@ Valoración numérica del SUS: 72.25
 
 ## 5. Auditoría de Accesibilidad
 
-Sintetiza el cumplimiento técnico y normativo.
-
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+[Acceibility-Report](./P5/Acceibility-Report-template.md)
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
